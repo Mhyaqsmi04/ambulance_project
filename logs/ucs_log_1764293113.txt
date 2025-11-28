@@ -1,0 +1,2738 @@
+UCS multi-goal log
+POP state=(0, 4, 0) g=0 time=0
+PUSH state=(1, 4, 0) g=1 action=DOWN time=1
+PUSH state=(0, 3, 0) g=9 action=LEFT time=9
+PUSH state=(0, 4, 0) g=1 action=STAY time=1
+POP state=(1, 4, 0) g=1 time=1
+PUSH state=(0, 4, 0) g=2 action=UP time=2
+PUSH state=(2, 4, 4) g=2 action=DOWN time=2
+PUSH state=(1, 3, 0) g=2 action=LEFT time=2
+PUSH state=(1, 4, 0) g=2 action=STAY time=2
+POP state=(0, 4, 0) g=1 time=1
+POP state=(0, 4, 0) g=2 time=2
+POP state=(2, 4, 4) g=2 time=2
+PUSH state=(1, 4, 4) g=3 action=UP time=3
+PUSH state=(3, 4, 4) g=11 action=DOWN time=11
+PUSH state=(2, 3, 4) g=3 action=LEFT time=3
+PUSH state=(2, 4, 4) g=3 action=STAY time=3
+POP state=(1, 3, 0) g=2 time=2
+PUSH state=(0, 3, 0) g=11 action=UP time=11
+PUSH state=(2, 3, 0) g=3 action=DOWN time=3
+PUSH state=(1, 2, 0) g=3 action=LEFT time=3
+PUSH state=(1, 4, 0) g=3 action=RIGHT time=3
+PUSH state=(1, 3, 0) g=3 action=STAY time=3
+POP state=(1, 4, 0) g=2 time=2
+POP state=(1, 4, 4) g=3 time=3
+PUSH state=(0, 4, 4) g=4 action=UP time=4
+PUSH state=(2, 4, 4) g=4 action=DOWN time=4
+PUSH state=(1, 3, 4) g=4 action=LEFT time=4
+PUSH state=(1, 4, 4) g=4 action=STAY time=4
+POP state=(2, 3, 4) g=3 time=3
+PUSH state=(1, 3, 4) g=4 action=UP time=4
+PUSH state=(3, 3, 4) g=4 action=DOWN time=4
+PUSH state=(2, 2, 4) g=5 action=LEFT time=5
+PUSH state=(2, 4, 4) g=4 action=RIGHT time=4
+PUSH state=(2, 3, 4) g=4 action=STAY time=4
+POP state=(2, 4, 4) g=3 time=3
+POP state=(2, 3, 0) g=3 time=3
+PUSH state=(1, 3, 0) g=4 action=UP time=4
+PUSH state=(3, 3, 0) g=4 action=DOWN time=4
+PUSH state=(2, 2, 0) g=5 action=LEFT time=5
+PUSH state=(2, 4, 4) g=4 action=RIGHT time=4
+PUSH state=(2, 3, 0) g=4 action=STAY time=4
+POP state=(1, 2, 0) g=3 time=3
+PUSH state=(0, 2, 1) g=4 action=UP time=4
+PUSH state=(2, 2, 0) g=5 action=DOWN time=5
+PUSH state=(1, 1, 0) g=11 action=LEFT time=11
+PUSH state=(1, 3, 0) g=4 action=RIGHT time=4
+PUSH state=(1, 2, 0) g=4 action=STAY time=4
+POP state=(1, 4, 0) g=3 time=3
+POP state=(1, 3, 0) g=3 time=3
+POP state=(0, 4, 4) g=4 time=4
+PUSH state=(1, 4, 4) g=5 action=DOWN time=5
+PUSH state=(0, 3, 4) g=13 action=LEFT time=13
+PUSH state=(0, 4, 4) g=5 action=STAY time=5
+POP state=(2, 4, 4) g=4 time=4
+POP state=(1, 3, 4) g=4 time=4
+PUSH state=(0, 3, 4) g=13 action=UP time=13
+PUSH state=(2, 3, 4) g=5 action=DOWN time=5
+PUSH state=(1, 2, 4) g=5 action=LEFT time=5
+PUSH state=(1, 4, 4) g=5 action=RIGHT time=5
+PUSH state=(1, 3, 4) g=5 action=STAY time=5
+POP state=(1, 4, 4) g=4 time=4
+POP state=(1, 3, 4) g=4 time=4
+POP state=(3, 3, 4) g=4 time=4
+PUSH state=(2, 3, 4) g=5 action=UP time=5
+PUSH state=(4, 3, 4) g=5 action=DOWN time=5
+PUSH state=(3, 2, 4) g=5 action=LEFT time=5
+PUSH state=(3, 4, 4) g=13 action=RIGHT time=13
+PUSH state=(3, 3, 4) g=5 action=STAY time=5
+POP state=(2, 4, 4) g=4 time=4
+POP state=(2, 3, 4) g=4 time=4
+POP state=(1, 3, 0) g=4 time=4
+POP state=(3, 3, 0) g=4 time=4
+PUSH state=(2, 3, 0) g=5 action=UP time=5
+PUSH state=(4, 3, 0) g=5 action=DOWN time=5
+PUSH state=(3, 2, 0) g=5 action=LEFT time=5
+PUSH state=(3, 4, 0) g=13 action=RIGHT time=13
+PUSH state=(3, 3, 0) g=5 action=STAY time=5
+POP state=(2, 4, 4) g=4 time=4
+POP state=(2, 3, 0) g=4 time=4
+POP state=(0, 2, 1) g=4 time=4
+PUSH state=(1, 2, 1) g=5 action=DOWN time=5
+PUSH state=(0, 1, 1) g=7 action=LEFT time=7
+PUSH state=(0, 3, 1) g=13 action=RIGHT time=13
+PUSH state=(0, 2, 1) g=5 action=STAY time=5
+POP state=(1, 3, 0) g=4 time=4
+POP state=(1, 2, 0) g=4 time=4
+POP state=(2, 2, 4) g=5 time=5
+PUSH state=(1, 2, 4) g=6 action=UP time=6
+PUSH state=(3, 2, 4) g=6 action=DOWN time=6
+PUSH state=(2, 1, 4) g=14 action=LEFT time=14
+PUSH state=(2, 3, 4) g=6 action=RIGHT time=6
+PUSH state=(2, 2, 4) g=7 action=STAY time=7
+POP state=(2, 2, 0) g=5 time=5
+PUSH state=(1, 2, 0) g=6 action=UP time=6
+PUSH state=(3, 2, 0) g=6 action=DOWN time=6
+PUSH state=(2, 1, 0) g=14 action=LEFT time=14
+PUSH state=(2, 3, 0) g=6 action=RIGHT time=6
+PUSH state=(2, 2, 0) g=7 action=STAY time=7
+POP state=(2, 2, 0) g=5 time=5
+POP state=(1, 4, 4) g=5 time=5
+POP state=(0, 4, 4) g=5 time=5
+POP state=(2, 3, 4) g=5 time=5
+POP state=(1, 2, 4) g=5 time=5
+PUSH state=(0, 2, 5) g=6 action=UP time=6
+PUSH state=(2, 2, 4) g=7 action=DOWN time=7
+PUSH state=(1, 1, 4) g=13 action=LEFT time=13
+PUSH state=(1, 3, 4) g=6 action=RIGHT time=6
+PUSH state=(1, 2, 4) g=6 action=STAY time=6
+POP state=(1, 4, 4) g=5 time=5
+POP state=(1, 3, 4) g=5 time=5
+POP state=(2, 3, 4) g=5 time=5
+POP state=(4, 3, 4) g=5 time=5
+PUSH state=(3, 3, 4) g=6 action=UP time=6
+PUSH state=(4, 2, 12) g=6 action=LEFT time=6
+PUSH state=(4, 4, 4) g=6 action=RIGHT time=6
+PUSH state=(4, 3, 4) g=6 action=STAY time=6
+POP state=(3, 2, 4) g=5 time=5
+PUSH state=(2, 2, 4) g=7 action=UP time=7
+PUSH state=(4, 2, 12) g=6 action=DOWN time=6
+PUSH state=(3, 1, 4) g=14 action=LEFT time=14
+PUSH state=(3, 3, 4) g=6 action=RIGHT time=6
+PUSH state=(3, 2, 4) g=6 action=STAY time=6
+POP state=(3, 3, 4) g=5 time=5
+POP state=(2, 3, 0) g=5 time=5
+POP state=(4, 3, 0) g=5 time=5
+PUSH state=(3, 3, 0) g=6 action=UP time=6
+PUSH state=(4, 2, 8) g=6 action=LEFT time=6
+PUSH state=(4, 4, 0) g=6 action=RIGHT time=6
+PUSH state=(4, 3, 0) g=6 action=STAY time=6
+POP state=(3, 2, 0) g=5 time=5
+PUSH state=(2, 2, 0) g=7 action=UP time=7
+PUSH state=(4, 2, 8) g=6 action=DOWN time=6
+PUSH state=(3, 1, 0) g=14 action=LEFT time=14
+PUSH state=(3, 3, 0) g=6 action=RIGHT time=6
+PUSH state=(3, 2, 0) g=6 action=STAY time=6
+POP state=(3, 3, 0) g=5 time=5
+POP state=(1, 2, 1) g=5 time=5
+PUSH state=(0, 2, 1) g=6 action=UP time=6
+PUSH state=(2, 2, 1) g=7 action=DOWN time=7
+PUSH state=(1, 1, 1) g=13 action=LEFT time=13
+PUSH state=(1, 3, 1) g=6 action=RIGHT time=6
+PUSH state=(1, 2, 1) g=6 action=STAY time=6
+POP state=(0, 2, 1) g=5 time=5
+POP state=(1, 2, 4) g=6 time=6
+POP state=(3, 2, 4) g=6 time=6
+POP state=(2, 3, 4) g=6 time=6
+POP state=(1, 2, 0) g=6 time=6
+POP state=(3, 2, 0) g=6 time=6
+POP state=(2, 3, 0) g=6 time=6
+POP state=(0, 2, 5) g=6 time=6
+PUSH state=(1, 2, 5) g=7 action=DOWN time=7
+PUSH state=(0, 1, 5) g=9 action=LEFT time=9
+PUSH state=(0, 3, 5) g=15 action=RIGHT time=15
+PUSH state=(0, 2, 5) g=7 action=STAY time=7
+POP state=(1, 3, 4) g=6 time=6
+POP state=(1, 2, 4) g=6 time=6
+POP state=(3, 3, 4) g=6 time=6
+POP state=(4, 2, 12) g=6 time=6
+PUSH state=(3, 2, 12) g=7 action=UP time=7
+PUSH state=(4, 1, 12) g=7 action=LEFT time=7
+PUSH state=(4, 3, 12) g=7 action=RIGHT time=7
+PUSH state=(4, 2, 12) g=7 action=STAY time=7
+POP state=(4, 4, 4) g=6 time=6
+PUSH state=(3, 4, 4) g=15 action=UP time=15
+PUSH state=(4, 3, 4) g=7 action=LEFT time=7
+PUSH state=(4, 4, 4) g=7 action=STAY time=7
+POP state=(4, 3, 4) g=6 time=6
+POP state=(4, 2, 12) g=6 time=6
+POP state=(3, 3, 4) g=6 time=6
+POP state=(3, 2, 4) g=6 time=6
+POP state=(3, 3, 0) g=6 time=6
+POP state=(4, 2, 8) g=6 time=6
+PUSH state=(3, 2, 8) g=7 action=UP time=7
+PUSH state=(4, 1, 8) g=7 action=LEFT time=7
+PUSH state=(4, 3, 8) g=7 action=RIGHT time=7
+PUSH state=(4, 2, 8) g=7 action=STAY time=7
+POP state=(4, 4, 0) g=6 time=6
+PUSH state=(3, 4, 0) g=15 action=UP time=15
+PUSH state=(4, 3, 0) g=7 action=LEFT time=7
+PUSH state=(4, 4, 0) g=7 action=STAY time=7
+POP state=(4, 3, 0) g=6 time=6
+POP state=(4, 2, 8) g=6 time=6
+POP state=(3, 3, 0) g=6 time=6
+POP state=(3, 2, 0) g=6 time=6
+POP state=(0, 2, 1) g=6 time=6
+POP state=(1, 3, 1) g=6 time=6
+PUSH state=(0, 3, 1) g=15 action=UP time=15
+PUSH state=(2, 3, 1) g=7 action=DOWN time=7
+PUSH state=(1, 2, 1) g=7 action=LEFT time=7
+PUSH state=(1, 4, 1) g=7 action=RIGHT time=7
+PUSH state=(1, 3, 1) g=7 action=STAY time=7
+POP state=(1, 2, 1) g=6 time=6
+POP state=(0, 1, 1) g=7 time=7
+PUSH state=(1, 1, 1) g=15 action=DOWN time=15
+PUSH state=(0, 0, 1) g=16 action=LEFT time=16
+PUSH state=(0, 2, 1) g=8 action=RIGHT time=8
+PUSH state=(0, 1, 1) g=10 action=STAY time=10
+POP state=(2, 2, 4) g=7 time=7
+POP state=(2, 2, 0) g=7 time=7
+POP state=(2, 2, 4) g=7 time=7
+POP state=(2, 2, 4) g=7 time=7
+POP state=(2, 2, 0) g=7 time=7
+POP state=(2, 2, 1) g=7 time=7
+PUSH state=(1, 2, 1) g=8 action=UP time=8
+PUSH state=(3, 2, 1) g=8 action=DOWN time=8
+PUSH state=(2, 1, 1) g=16 action=LEFT time=16
+PUSH state=(2, 3, 1) g=8 action=RIGHT time=8
+PUSH state=(2, 2, 1) g=9 action=STAY time=9
+POP state=(1, 2, 5) g=7 time=7
+PUSH state=(0, 2, 5) g=8 action=UP time=8
+PUSH state=(2, 2, 5) g=9 action=DOWN time=9
+PUSH state=(1, 1, 5) g=15 action=LEFT time=15
+PUSH state=(1, 3, 5) g=8 action=RIGHT time=8
+PUSH state=(1, 2, 5) g=8 action=STAY time=8
+POP state=(0, 2, 5) g=7 time=7
+POP state=(3, 2, 12) g=7 time=7
+PUSH state=(2, 2, 12) g=9 action=UP time=9
+PUSH state=(4, 2, 12) g=8 action=DOWN time=8
+PUSH state=(3, 1, 12) g=16 action=LEFT time=16
+PUSH state=(3, 3, 12) g=8 action=RIGHT time=8
+PUSH state=(3, 2, 12) g=8 action=STAY time=8
+POP state=(4, 1, 12) g=7 time=7
+PUSH state=(3, 1, 12) g=16 action=UP time=16
+PUSH state=(4, 0, 12) g=9 action=LEFT time=9
+PUSH state=(4, 2, 12) g=8 action=RIGHT time=8
+PUSH state=(4, 1, 12) g=8 action=STAY time=8
+POP state=(4, 3, 12) g=7 time=7
+PUSH state=(3, 3, 12) g=8 action=UP time=8
+PUSH state=(4, 2, 12) g=8 action=LEFT time=8
+PUSH state=(4, 4, 12) g=8 action=RIGHT time=8
+PUSH state=(4, 3, 12) g=8 action=STAY time=8
+POP state=(4, 2, 12) g=7 time=7
+POP state=(4, 3, 4) g=7 time=7
+POP state=(4, 4, 4) g=7 time=7
+POP state=(3, 2, 8) g=7 time=7
+PUSH state=(2, 2, 8) g=9 action=UP time=9
+PUSH state=(4, 2, 8) g=8 action=DOWN time=8
+PUSH state=(3, 1, 8) g=16 action=LEFT time=16
+PUSH state=(3, 3, 8) g=8 action=RIGHT time=8
+PUSH state=(3, 2, 8) g=8 action=STAY time=8
+POP state=(4, 1, 8) g=7 time=7
+PUSH state=(3, 1, 8) g=16 action=UP time=16
+PUSH state=(4, 0, 8) g=9 action=LEFT time=9
+PUSH state=(4, 2, 8) g=8 action=RIGHT time=8
+PUSH state=(4, 1, 8) g=8 action=STAY time=8
+POP state=(4, 3, 8) g=7 time=7
+PUSH state=(3, 3, 8) g=8 action=UP time=8
+PUSH state=(4, 2, 8) g=8 action=LEFT time=8
+PUSH state=(4, 4, 8) g=8 action=RIGHT time=8
+PUSH state=(4, 3, 8) g=8 action=STAY time=8
+POP state=(4, 2, 8) g=7 time=7
+POP state=(4, 3, 0) g=7 time=7
+POP state=(4, 4, 0) g=7 time=7
+POP state=(2, 3, 1) g=7 time=7
+PUSH state=(1, 3, 1) g=8 action=UP time=8
+PUSH state=(3, 3, 1) g=8 action=DOWN time=8
+PUSH state=(2, 2, 1) g=9 action=LEFT time=9
+PUSH state=(2, 4, 5) g=8 action=RIGHT time=8
+PUSH state=(2, 3, 1) g=8 action=STAY time=8
+POP state=(1, 2, 1) g=7 time=7
+POP state=(1, 4, 1) g=7 time=7
+PUSH state=(0, 4, 1) g=8 action=UP time=8
+PUSH state=(2, 4, 5) g=8 action=DOWN time=8
+PUSH state=(1, 3, 1) g=8 action=LEFT time=8
+PUSH state=(1, 4, 1) g=8 action=STAY time=8
+POP state=(1, 3, 1) g=7 time=7
+POP state=(0, 2, 1) g=8 time=8
+POP state=(1, 2, 1) g=8 time=8
+POP state=(3, 2, 1) g=8 time=8
+PUSH state=(2, 2, 1) g=10 action=UP time=10
+PUSH state=(4, 2, 9) g=9 action=DOWN time=9
+PUSH state=(3, 1, 1) g=17 action=LEFT time=17
+PUSH state=(3, 3, 1) g=9 action=RIGHT time=9
+PUSH state=(3, 2, 1) g=9 action=STAY time=9
+POP state=(2, 3, 1) g=8 time=8
+POP state=(0, 2, 5) g=8 time=8
+POP state=(1, 3, 5) g=8 time=8
+PUSH state=(0, 3, 5) g=17 action=UP time=17
+PUSH state=(2, 3, 5) g=9 action=DOWN time=9
+PUSH state=(1, 2, 5) g=9 action=LEFT time=9
+PUSH state=(1, 4, 5) g=9 action=RIGHT time=9
+PUSH state=(1, 3, 5) g=9 action=STAY time=9
+POP state=(1, 2, 5) g=8 time=8
+POP state=(4, 2, 12) g=8 time=8
+POP state=(3, 3, 12) g=8 time=8
+PUSH state=(2, 3, 12) g=9 action=UP time=9
+PUSH state=(4, 3, 12) g=9 action=DOWN time=9
+PUSH state=(3, 2, 12) g=9 action=LEFT time=9
+PUSH state=(3, 4, 12) g=17 action=RIGHT time=17
+PUSH state=(3, 3, 12) g=9 action=STAY time=9
+POP state=(3, 2, 12) g=8 time=8
+POP state=(4, 2, 12) g=8 time=8
+POP state=(4, 1, 12) g=8 time=8
+POP state=(3, 3, 12) g=8 time=8
+POP state=(4, 2, 12) g=8 time=8
+POP state=(4, 4, 12) g=8 time=8
+PUSH state=(3, 4, 12) g=17 action=UP time=17
+PUSH state=(4, 3, 12) g=9 action=LEFT time=9
+PUSH state=(4, 4, 12) g=9 action=STAY time=9
+POP state=(4, 3, 12) g=8 time=8
+POP state=(4, 2, 8) g=8 time=8
+POP state=(3, 3, 8) g=8 time=8
+PUSH state=(2, 3, 8) g=9 action=UP time=9
+PUSH state=(4, 3, 8) g=9 action=DOWN time=9
+PUSH state=(3, 2, 8) g=9 action=LEFT time=9
+PUSH state=(3, 4, 8) g=17 action=RIGHT time=17
+PUSH state=(3, 3, 8) g=9 action=STAY time=9
+POP state=(3, 2, 8) g=8 time=8
+POP state=(4, 2, 8) g=8 time=8
+POP state=(4, 1, 8) g=8 time=8
+POP state=(3, 3, 8) g=8 time=8
+POP state=(4, 2, 8) g=8 time=8
+POP state=(4, 4, 8) g=8 time=8
+PUSH state=(3, 4, 8) g=17 action=UP time=17
+PUSH state=(4, 3, 8) g=9 action=LEFT time=9
+PUSH state=(4, 4, 8) g=9 action=STAY time=9
+POP state=(4, 3, 8) g=8 time=8
+POP state=(1, 3, 1) g=8 time=8
+POP state=(3, 3, 1) g=8 time=8
+PUSH state=(2, 3, 1) g=9 action=UP time=9
+PUSH state=(4, 3, 1) g=9 action=DOWN time=9
+PUSH state=(3, 2, 1) g=9 action=LEFT time=9
+PUSH state=(3, 4, 1) g=17 action=RIGHT time=17
+PUSH state=(3, 3, 1) g=9 action=STAY time=9
+POP state=(2, 4, 5) g=8 time=8
+PUSH state=(1, 4, 5) g=9 action=UP time=9
+PUSH state=(3, 4, 5) g=17 action=DOWN time=17
+PUSH state=(2, 3, 5) g=9 action=LEFT time=9
+PUSH state=(2, 4, 5) g=9 action=STAY time=9
+POP state=(2, 3, 1) g=8 time=8
+POP state=(0, 4, 1) g=8 time=8
+PUSH state=(1, 4, 1) g=9 action=DOWN time=9
+PUSH state=(0, 3, 1) g=17 action=LEFT time=17
+PUSH state=(0, 4, 1) g=9 action=STAY time=9
+POP state=(2, 4, 5) g=8 time=8
+POP state=(1, 3, 1) g=8 time=8
+POP state=(1, 4, 1) g=8 time=8
+POP state=(0, 3, 0) g=9 time=9
+PUSH state=(1, 3, 0) g=10 action=DOWN time=10
+PUSH state=(0, 2, 1) g=10 action=LEFT time=10
+PUSH state=(0, 4, 0) g=10 action=RIGHT time=10
+PUSH state=(0, 3, 0) g=18 action=STAY time=18
+POP state=(0, 1, 5) g=9 time=9
+PUSH state=(1, 1, 5) g=17 action=DOWN time=17
+PUSH state=(0, 0, 5) g=18 action=LEFT time=18
+PUSH state=(0, 2, 5) g=10 action=RIGHT time=10
+PUSH state=(0, 1, 5) g=12 action=STAY time=12
+POP state=(2, 2, 1) g=9 time=9
+POP state=(2, 2, 5) g=9 time=9
+PUSH state=(1, 2, 5) g=10 action=UP time=10
+PUSH state=(3, 2, 5) g=10 action=DOWN time=10
+PUSH state=(2, 1, 5) g=18 action=LEFT time=18
+PUSH state=(2, 3, 5) g=10 action=RIGHT time=10
+PUSH state=(2, 2, 5) g=11 action=STAY time=11
+POP state=(2, 2, 12) g=9 time=9
+PUSH state=(1, 2, 12) g=10 action=UP time=10
+PUSH state=(3, 2, 12) g=10 action=DOWN time=10
+PUSH state=(2, 1, 12) g=18 action=LEFT time=18
+PUSH state=(2, 3, 12) g=10 action=RIGHT time=10
+PUSH state=(2, 2, 12) g=11 action=STAY time=11
+POP state=(4, 0, 12) g=9 time=9
+PUSH state=(3, 0, 12) g=11 action=UP time=11
+PUSH state=(4, 1, 12) g=10 action=RIGHT time=10
+PUSH state=(4, 0, 12) g=11 action=STAY time=11
+POP state=(2, 2, 8) g=9 time=9
+PUSH state=(1, 2, 8) g=10 action=UP time=10
+PUSH state=(3, 2, 8) g=10 action=DOWN time=10
+PUSH state=(2, 1, 8) g=18 action=LEFT time=18
+PUSH state=(2, 3, 8) g=10 action=RIGHT time=10
+PUSH state=(2, 2, 8) g=11 action=STAY time=11
+POP state=(4, 0, 8) g=9 time=9
+PUSH state=(3, 0, 8) g=11 action=UP time=11
+PUSH state=(4, 1, 8) g=10 action=RIGHT time=10
+PUSH state=(4, 0, 8) g=11 action=STAY time=11
+POP state=(2, 2, 1) g=9 time=9
+POP state=(4, 2, 9) g=9 time=9
+PUSH state=(3, 2, 9) g=10 action=UP time=10
+PUSH state=(4, 1, 9) g=10 action=LEFT time=10
+PUSH state=(4, 3, 9) g=10 action=RIGHT time=10
+PUSH state=(4, 2, 9) g=10 action=STAY time=10
+POP state=(3, 3, 1) g=9 time=9
+POP state=(3, 2, 1) g=9 time=9
+POP state=(2, 3, 5) g=9 time=9
+PUSH state=(1, 3, 5) g=10 action=UP time=10
+PUSH state=(3, 3, 5) g=10 action=DOWN time=10
+PUSH state=(2, 2, 5) g=11 action=LEFT time=11
+PUSH state=(2, 4, 5) g=10 action=RIGHT time=10
+PUSH state=(2, 3, 5) g=10 action=STAY time=10
+POP state=(1, 2, 5) g=9 time=9
+POP state=(1, 4, 5) g=9 time=9
+PUSH state=(0, 4, 5) g=10 action=UP time=10
+PUSH state=(2, 4, 5) g=10 action=DOWN time=10
+PUSH state=(1, 3, 5) g=10 action=LEFT time=10
+PUSH state=(1, 4, 5) g=10 action=STAY time=10
+POP state=(1, 3, 5) g=9 time=9
+POP state=(2, 3, 12) g=9 time=9
+PUSH state=(1, 3, 12) g=10 action=UP time=10
+PUSH state=(3, 3, 12) g=10 action=DOWN time=10
+PUSH state=(2, 2, 12) g=11 action=LEFT time=11
+PUSH state=(2, 4, 12) g=10 action=RIGHT time=10
+PUSH state=(2, 3, 12) g=10 action=STAY time=10
+POP state=(4, 3, 12) g=9 time=9
+POP state=(3, 2, 12) g=9 time=9
+POP state=(3, 3, 12) g=9 time=9
+POP state=(4, 3, 12) g=9 time=9
+POP state=(4, 4, 12) g=9 time=9
+POP state=(2, 3, 8) g=9 time=9
+PUSH state=(1, 3, 8) g=10 action=UP time=10
+PUSH state=(3, 3, 8) g=10 action=DOWN time=10
+PUSH state=(2, 2, 8) g=11 action=LEFT time=11
+PUSH state=(2, 4, 12) g=10 action=RIGHT time=10
+PUSH state=(2, 3, 8) g=10 action=STAY time=10
+POP state=(4, 3, 8) g=9 time=9
+POP state=(3, 2, 8) g=9 time=9
+POP state=(3, 3, 8) g=9 time=9
+POP state=(4, 3, 8) g=9 time=9
+POP state=(4, 4, 8) g=9 time=9
+POP state=(2, 3, 1) g=9 time=9
+POP state=(4, 3, 1) g=9 time=9
+PUSH state=(3, 3, 1) g=10 action=UP time=10
+PUSH state=(4, 2, 9) g=10 action=LEFT time=10
+PUSH state=(4, 4, 1) g=10 action=RIGHT time=10
+PUSH state=(4, 3, 1) g=10 action=STAY time=10
+POP state=(3, 2, 1) g=9 time=9
+POP state=(3, 3, 1) g=9 time=9
+POP state=(1, 4, 5) g=9 time=9
+POP state=(2, 3, 5) g=9 time=9
+POP state=(2, 4, 5) g=9 time=9
+POP state=(1, 4, 1) g=9 time=9
+POP state=(0, 4, 1) g=9 time=9
+POP state=(0, 1, 1) g=10 time=10
+POP state=(2, 2, 1) g=10 time=10
+POP state=(1, 3, 0) g=10 time=10
+POP state=(0, 2, 1) g=10 time=10
+POP state=(0, 4, 0) g=10 time=10
+POP state=(0, 2, 5) g=10 time=10
+POP state=(1, 2, 5) g=10 time=10
+POP state=(3, 2, 5) g=10 time=10
+PUSH state=(2, 2, 5) g=12 action=UP time=12
+PUSH state=(4, 2, 13) g=11 action=DOWN time=11
+PUSH state=(3, 1, 5) g=19 action=LEFT time=19
+PUSH state=(3, 2, 5) g=11 action=STAY time=11
+PUSH state=(3, 2, 5) g=12 action=STAY time=12
+PUSH state=(3, 2, 5) g=13 action=STAY time=13
+PUSH state=(3, 2, 5) g=14 action=STAY time=14
+PUSH state=(3, 2, 5) g=15 action=STAY time=15
+PUSH state=(3, 2, 5) g=16 action=STAY time=16
+PUSH state=(3, 2, 5) g=17 action=STAY time=17
+PUSH state=(3, 2, 5) g=18 action=STAY time=18
+PUSH state=(3, 2, 5) g=19 action=STAY time=19
+PUSH state=(3, 2, 5) g=20 action=STAY time=20
+PUSH state=(3, 3, 5) g=21 action=RIGHT time=21
+PUSH state=(3, 2, 5) g=11 action=STAY time=11
+PUSH state=(3, 2, 5) g=12 action=STAY time=12
+PUSH state=(3, 2, 5) g=13 action=STAY time=13
+PUSH state=(3, 2, 5) g=14 action=STAY time=14
+PUSH state=(3, 2, 5) g=15 action=STAY time=15
+PUSH state=(3, 2, 5) g=16 action=STAY time=16
+PUSH state=(3, 2, 5) g=17 action=STAY time=17
+PUSH state=(3, 2, 5) g=18 action=STAY time=18
+PUSH state=(3, 2, 5) g=19 action=STAY time=19
+PUSH state=(3, 2, 5) g=20 action=STAY time=20
+PUSH state=(3, 2, 5) g=21 action=STAY time=21
+POP state=(2, 3, 5) g=10 time=10
+POP state=(1, 2, 12) g=10 time=10
+PUSH state=(0, 2, 13) g=11 action=UP time=11
+PUSH state=(2, 2, 12) g=12 action=DOWN time=12
+PUSH state=(1, 1, 12) g=18 action=LEFT time=18
+PUSH state=(1, 3, 12) g=11 action=RIGHT time=11
+PUSH state=(1, 2, 12) g=11 action=STAY time=11
+PUSH state=(1, 2, 12) g=12 action=STAY time=12
+PUSH state=(1, 2, 12) g=13 action=STAY time=13
+PUSH state=(1, 2, 12) g=14 action=STAY time=14
+PUSH state=(1, 2, 12) g=15 action=STAY time=15
+PUSH state=(1, 2, 12) g=16 action=STAY time=16
+PUSH state=(1, 2, 12) g=17 action=STAY time=17
+PUSH state=(1, 2, 12) g=18 action=STAY time=18
+PUSH state=(1, 2, 12) g=19 action=STAY time=19
+PUSH state=(1, 2, 12) g=20 action=STAY time=20
+PUSH state=(1, 2, 12) g=21 action=STAY time=21
+POP state=(3, 2, 12) g=10 time=10
+POP state=(2, 3, 12) g=10 time=10
+POP state=(4, 1, 12) g=10 time=10
+POP state=(1, 2, 8) g=10 time=10
+PUSH state=(0, 2, 9) g=11 action=UP time=11
+PUSH state=(2, 2, 8) g=12 action=DOWN time=12
+PUSH state=(1, 1, 8) g=18 action=LEFT time=18
+PUSH state=(1, 3, 8) g=11 action=RIGHT time=11
+PUSH state=(1, 2, 8) g=11 action=STAY time=11
+PUSH state=(1, 2, 8) g=12 action=STAY time=12
+PUSH state=(1, 2, 8) g=13 action=STAY time=13
+PUSH state=(1, 2, 8) g=14 action=STAY time=14
+PUSH state=(1, 2, 8) g=15 action=STAY time=15
+PUSH state=(1, 2, 8) g=16 action=STAY time=16
+PUSH state=(1, 2, 8) g=17 action=STAY time=17
+PUSH state=(1, 2, 8) g=18 action=STAY time=18
+PUSH state=(1, 2, 8) g=19 action=STAY time=19
+PUSH state=(1, 2, 8) g=20 action=STAY time=20
+PUSH state=(1, 2, 8) g=21 action=STAY time=21
+POP state=(3, 2, 8) g=10 time=10
+POP state=(2, 3, 8) g=10 time=10
+POP state=(4, 1, 8) g=10 time=10
+POP state=(3, 2, 9) g=10 time=10
+PUSH state=(2, 2, 9) g=12 action=UP time=12
+PUSH state=(4, 2, 9) g=11 action=DOWN time=11
+PUSH state=(3, 1, 9) g=19 action=LEFT time=19
+PUSH state=(3, 2, 9) g=11 action=STAY time=11
+PUSH state=(3, 2, 9) g=12 action=STAY time=12
+PUSH state=(3, 2, 9) g=13 action=STAY time=13
+PUSH state=(3, 2, 9) g=14 action=STAY time=14
+PUSH state=(3, 2, 9) g=15 action=STAY time=15
+PUSH state=(3, 2, 9) g=16 action=STAY time=16
+PUSH state=(3, 2, 9) g=17 action=STAY time=17
+PUSH state=(3, 2, 9) g=18 action=STAY time=18
+PUSH state=(3, 2, 9) g=19 action=STAY time=19
+PUSH state=(3, 2, 9) g=20 action=STAY time=20
+PUSH state=(3, 3, 9) g=21 action=RIGHT time=21
+PUSH state=(3, 2, 9) g=11 action=STAY time=11
+PUSH state=(3, 2, 9) g=12 action=STAY time=12
+PUSH state=(3, 2, 9) g=13 action=STAY time=13
+PUSH state=(3, 2, 9) g=14 action=STAY time=14
+PUSH state=(3, 2, 9) g=15 action=STAY time=15
+PUSH state=(3, 2, 9) g=16 action=STAY time=16
+PUSH state=(3, 2, 9) g=17 action=STAY time=17
+PUSH state=(3, 2, 9) g=18 action=STAY time=18
+PUSH state=(3, 2, 9) g=19 action=STAY time=19
+PUSH state=(3, 2, 9) g=20 action=STAY time=20
+PUSH state=(3, 2, 9) g=21 action=STAY time=21
+POP state=(4, 1, 9) g=10 time=10
+PUSH state=(3, 1, 9) g=19 action=UP time=19
+PUSH state=(4, 0, 9) g=12 action=LEFT time=12
+PUSH state=(4, 2, 9) g=11 action=RIGHT time=11
+PUSH state=(4, 1, 9) g=11 action=STAY time=11
+PUSH state=(4, 1, 9) g=12 action=STAY time=12
+PUSH state=(4, 1, 9) g=13 action=STAY time=13
+PUSH state=(4, 1, 9) g=14 action=STAY time=14
+PUSH state=(4, 1, 9) g=15 action=STAY time=15
+PUSH state=(4, 1, 9) g=16 action=STAY time=16
+PUSH state=(4, 1, 9) g=17 action=STAY time=17
+PUSH state=(4, 1, 9) g=18 action=STAY time=18
+PUSH state=(4, 1, 9) g=19 action=STAY time=19
+PUSH state=(4, 1, 9) g=20 action=STAY time=20
+PUSH state=(4, 1, 9) g=21 action=STAY time=21
+POP state=(4, 3, 9) g=10 time=10
+PUSH state=(4, 3, 9) g=11 action=STAY time=11
+PUSH state=(4, 3, 9) g=12 action=STAY time=12
+PUSH state=(4, 3, 9) g=13 action=STAY time=13
+PUSH state=(4, 3, 9) g=14 action=STAY time=14
+PUSH state=(4, 3, 9) g=15 action=STAY time=15
+PUSH state=(4, 3, 9) g=16 action=STAY time=16
+PUSH state=(4, 3, 9) g=17 action=STAY time=17
+PUSH state=(4, 3, 9) g=18 action=STAY time=18
+PUSH state=(4, 3, 9) g=19 action=STAY time=19
+PUSH state=(4, 3, 9) g=20 action=STAY time=20
+PUSH state=(3, 3, 9) g=21 action=UP time=21
+PUSH state=(4, 2, 9) g=11 action=LEFT time=11
+PUSH state=(4, 3, 9) g=11 action=STAY time=11
+PUSH state=(4, 3, 9) g=12 action=STAY time=12
+PUSH state=(4, 3, 9) g=13 action=STAY time=13
+PUSH state=(4, 3, 9) g=14 action=STAY time=14
+PUSH state=(4, 3, 9) g=15 action=STAY time=15
+PUSH state=(4, 3, 9) g=16 action=STAY time=16
+PUSH state=(4, 3, 9) g=17 action=STAY time=17
+PUSH state=(4, 3, 9) g=18 action=STAY time=18
+PUSH state=(4, 3, 9) g=19 action=STAY time=19
+PUSH state=(4, 3, 9) g=20 action=STAY time=20
+PUSH state=(4, 4, 9) g=21 action=RIGHT time=21
+PUSH state=(4, 3, 9) g=11 action=STAY time=11
+POP state=(4, 2, 9) g=10 time=10
+POP state=(1, 3, 5) g=10 time=10
+POP state=(3, 3, 5) g=10 time=10
+PUSH state=(3, 3, 5) g=11 action=STAY time=11
+PUSH state=(3, 3, 5) g=12 action=STAY time=12
+PUSH state=(3, 3, 5) g=13 action=STAY time=13
+PUSH state=(3, 3, 5) g=14 action=STAY time=14
+PUSH state=(3, 3, 5) g=15 action=STAY time=15
+PUSH state=(3, 3, 5) g=16 action=STAY time=16
+PUSH state=(3, 3, 5) g=17 action=STAY time=17
+PUSH state=(3, 3, 5) g=18 action=STAY time=18
+PUSH state=(3, 3, 5) g=19 action=STAY time=19
+PUSH state=(3, 3, 5) g=20 action=STAY time=20
+PUSH state=(2, 3, 5) g=21 action=UP time=21
+PUSH state=(4, 3, 5) g=11 action=DOWN time=11
+PUSH state=(3, 3, 5) g=11 action=STAY time=11
+PUSH state=(3, 3, 5) g=12 action=STAY time=12
+PUSH state=(3, 3, 5) g=13 action=STAY time=13
+PUSH state=(3, 3, 5) g=14 action=STAY time=14
+PUSH state=(3, 3, 5) g=15 action=STAY time=15
+PUSH state=(3, 3, 5) g=16 action=STAY time=16
+PUSH state=(3, 3, 5) g=17 action=STAY time=17
+PUSH state=(3, 3, 5) g=18 action=STAY time=18
+PUSH state=(3, 3, 5) g=19 action=STAY time=19
+PUSH state=(3, 3, 5) g=20 action=STAY time=20
+PUSH state=(3, 2, 5) g=21 action=LEFT time=21
+PUSH state=(3, 4, 5) g=19 action=RIGHT time=19
+PUSH state=(3, 3, 5) g=11 action=STAY time=11
+PUSH state=(3, 3, 5) g=12 action=STAY time=12
+PUSH state=(3, 3, 5) g=13 action=STAY time=13
+PUSH state=(3, 3, 5) g=14 action=STAY time=14
+PUSH state=(3, 3, 5) g=15 action=STAY time=15
+PUSH state=(3, 3, 5) g=16 action=STAY time=16
+PUSH state=(3, 3, 5) g=17 action=STAY time=17
+PUSH state=(3, 3, 5) g=18 action=STAY time=18
+PUSH state=(3, 3, 5) g=19 action=STAY time=19
+PUSH state=(3, 3, 5) g=20 action=STAY time=20
+PUSH state=(3, 3, 5) g=21 action=STAY time=21
+POP state=(2, 4, 5) g=10 time=10
+POP state=(2, 3, 5) g=10 time=10
+POP state=(0, 4, 5) g=10 time=10
+PUSH state=(1, 4, 5) g=11 action=DOWN time=11
+PUSH state=(0, 3, 5) g=19 action=LEFT time=19
+PUSH state=(0, 4, 5) g=11 action=STAY time=11
+POP state=(2, 4, 5) g=10 time=10
+POP state=(1, 3, 5) g=10 time=10
+POP state=(1, 4, 5) g=10 time=10
+POP state=(1, 3, 12) g=10 time=10
+PUSH state=(0, 3, 12) g=19 action=UP time=19
+PUSH state=(1, 3, 12) g=11 action=STAY time=11
+PUSH state=(1, 3, 12) g=12 action=STAY time=12
+PUSH state=(1, 3, 12) g=13 action=STAY time=13
+PUSH state=(1, 3, 12) g=14 action=STAY time=14
+PUSH state=(1, 3, 12) g=15 action=STAY time=15
+PUSH state=(1, 3, 12) g=16 action=STAY time=16
+PUSH state=(1, 3, 12) g=17 action=STAY time=17
+PUSH state=(1, 3, 12) g=18 action=STAY time=18
+PUSH state=(1, 3, 12) g=19 action=STAY time=19
+PUSH state=(1, 3, 12) g=20 action=STAY time=20
+PUSH state=(2, 3, 12) g=21 action=DOWN time=21
+PUSH state=(1, 3, 12) g=11 action=STAY time=11
+PUSH state=(1, 3, 12) g=12 action=STAY time=12
+PUSH state=(1, 3, 12) g=13 action=STAY time=13
+PUSH state=(1, 3, 12) g=14 action=STAY time=14
+PUSH state=(1, 3, 12) g=15 action=STAY time=15
+PUSH state=(1, 3, 12) g=16 action=STAY time=16
+PUSH state=(1, 3, 12) g=17 action=STAY time=17
+PUSH state=(1, 3, 12) g=18 action=STAY time=18
+PUSH state=(1, 3, 12) g=19 action=STAY time=19
+PUSH state=(1, 3, 12) g=20 action=STAY time=20
+PUSH state=(1, 2, 12) g=21 action=LEFT time=21
+PUSH state=(1, 4, 12) g=11 action=RIGHT time=11
+PUSH state=(1, 3, 12) g=11 action=STAY time=11
+POP state=(3, 3, 12) g=10 time=10
+POP state=(2, 4, 12) g=10 time=10
+PUSH state=(1, 4, 12) g=11 action=UP time=11
+PUSH state=(3, 4, 12) g=19 action=DOWN time=19
+PUSH state=(2, 4, 12) g=11 action=STAY time=11
+PUSH state=(2, 4, 12) g=12 action=STAY time=12
+PUSH state=(2, 4, 12) g=13 action=STAY time=13
+PUSH state=(2, 4, 12) g=14 action=STAY time=14
+PUSH state=(2, 4, 12) g=15 action=STAY time=15
+PUSH state=(2, 4, 12) g=16 action=STAY time=16
+PUSH state=(2, 4, 12) g=17 action=STAY time=17
+PUSH state=(2, 4, 12) g=18 action=STAY time=18
+PUSH state=(2, 4, 12) g=19 action=STAY time=19
+PUSH state=(2, 4, 12) g=20 action=STAY time=20
+PUSH state=(2, 3, 12) g=21 action=LEFT time=21
+PUSH state=(2, 4, 12) g=11 action=STAY time=11
+POP state=(2, 3, 12) g=10 time=10
+POP state=(1, 3, 8) g=10 time=10
+PUSH state=(0, 3, 8) g=19 action=UP time=19
+PUSH state=(1, 3, 8) g=11 action=STAY time=11
+PUSH state=(1, 3, 8) g=12 action=STAY time=12
+PUSH state=(1, 3, 8) g=13 action=STAY time=13
+PUSH state=(1, 3, 8) g=14 action=STAY time=14
+PUSH state=(1, 3, 8) g=15 action=STAY time=15
+PUSH state=(1, 3, 8) g=16 action=STAY time=16
+PUSH state=(1, 3, 8) g=17 action=STAY time=17
+PUSH state=(1, 3, 8) g=18 action=STAY time=18
+PUSH state=(1, 3, 8) g=19 action=STAY time=19
+PUSH state=(1, 3, 8) g=20 action=STAY time=20
+PUSH state=(2, 3, 8) g=21 action=DOWN time=21
+PUSH state=(1, 3, 8) g=11 action=STAY time=11
+PUSH state=(1, 3, 8) g=12 action=STAY time=12
+PUSH state=(1, 3, 8) g=13 action=STAY time=13
+PUSH state=(1, 3, 8) g=14 action=STAY time=14
+PUSH state=(1, 3, 8) g=15 action=STAY time=15
+PUSH state=(1, 3, 8) g=16 action=STAY time=16
+PUSH state=(1, 3, 8) g=17 action=STAY time=17
+PUSH state=(1, 3, 8) g=18 action=STAY time=18
+PUSH state=(1, 3, 8) g=19 action=STAY time=19
+PUSH state=(1, 3, 8) g=20 action=STAY time=20
+PUSH state=(1, 2, 8) g=21 action=LEFT time=21
+PUSH state=(1, 4, 8) g=11 action=RIGHT time=11
+PUSH state=(1, 3, 8) g=11 action=STAY time=11
+POP state=(3, 3, 8) g=10 time=10
+POP state=(2, 4, 12) g=10 time=10
+POP state=(2, 3, 8) g=10 time=10
+POP state=(3, 3, 1) g=10 time=10
+POP state=(4, 2, 9) g=10 time=10
+POP state=(4, 4, 1) g=10 time=10
+PUSH state=(3, 4, 1) g=19 action=UP time=19
+PUSH state=(4, 3, 1) g=11 action=LEFT time=11
+PUSH state=(4, 4, 1) g=11 action=STAY time=11
+PUSH state=(4, 4, 1) g=12 action=STAY time=12
+PUSH state=(4, 4, 1) g=13 action=STAY time=13
+PUSH state=(4, 4, 1) g=14 action=STAY time=14
+PUSH state=(4, 4, 1) g=15 action=STAY time=15
+PUSH state=(4, 4, 1) g=16 action=STAY time=16
+PUSH state=(4, 4, 1) g=17 action=STAY time=17
+PUSH state=(4, 4, 1) g=18 action=STAY time=18
+PUSH state=(4, 4, 1) g=19 action=STAY time=19
+PUSH state=(4, 4, 1) g=20 action=STAY time=20
+PUSH state=(4, 4, 1) g=21 action=STAY time=21
+POP state=(4, 3, 1) g=10 time=10
+POP state=(3, 4, 4) g=11 time=11
+PUSH state=(2, 4, 4) g=12 action=UP time=12
+PUSH state=(3, 4, 4) g=12 action=STAY time=12
+PUSH state=(3, 4, 4) g=13 action=STAY time=13
+PUSH state=(3, 4, 4) g=14 action=STAY time=14
+PUSH state=(3, 4, 4) g=15 action=STAY time=15
+PUSH state=(3, 4, 4) g=16 action=STAY time=16
+PUSH state=(3, 4, 4) g=17 action=STAY time=17
+PUSH state=(3, 4, 4) g=18 action=STAY time=18
+PUSH state=(3, 4, 4) g=19 action=STAY time=19
+PUSH state=(3, 4, 4) g=20 action=STAY time=20
+PUSH state=(4, 4, 4) g=21 action=DOWN time=21
+PUSH state=(3, 4, 4) g=12 action=STAY time=12
+PUSH state=(3, 4, 4) g=13 action=STAY time=13
+PUSH state=(3, 4, 4) g=14 action=STAY time=14
+PUSH state=(3, 4, 4) g=15 action=STAY time=15
+PUSH state=(3, 4, 4) g=16 action=STAY time=16
+PUSH state=(3, 4, 4) g=17 action=STAY time=17
+PUSH state=(3, 4, 4) g=18 action=STAY time=18
+PUSH state=(3, 4, 4) g=19 action=STAY time=19
+PUSH state=(3, 4, 4) g=20 action=STAY time=20
+PUSH state=(3, 3, 4) g=21 action=LEFT time=21
+PUSH state=(3, 4, 4) g=20 action=STAY time=20
+POP state=(0, 3, 0) g=11 time=11
+POP state=(1, 1, 0) g=11 time=11
+PUSH state=(0, 1, 0) g=14 action=UP time=14
+PUSH state=(2, 1, 0) g=20 action=DOWN time=20
+PUSH state=(1, 1, 0) g=12 action=STAY time=12
+PUSH state=(1, 1, 0) g=13 action=STAY time=13
+PUSH state=(1, 1, 0) g=14 action=STAY time=14
+PUSH state=(1, 1, 0) g=15 action=STAY time=15
+PUSH state=(1, 1, 0) g=16 action=STAY time=16
+PUSH state=(1, 1, 0) g=17 action=STAY time=17
+PUSH state=(1, 1, 0) g=18 action=STAY time=18
+PUSH state=(1, 1, 0) g=19 action=STAY time=19
+PUSH state=(1, 1, 0) g=20 action=STAY time=20
+PUSH state=(1, 0, 0) g=21 action=LEFT time=21
+PUSH state=(1, 1, 0) g=12 action=STAY time=12
+PUSH state=(1, 1, 0) g=13 action=STAY time=13
+PUSH state=(1, 1, 0) g=14 action=STAY time=14
+PUSH state=(1, 1, 0) g=15 action=STAY time=15
+PUSH state=(1, 1, 0) g=16 action=STAY time=16
+PUSH state=(1, 1, 0) g=17 action=STAY time=17
+PUSH state=(1, 1, 0) g=18 action=STAY time=18
+PUSH state=(1, 1, 0) g=19 action=STAY time=19
+PUSH state=(1, 1, 0) g=20 action=STAY time=20
+PUSH state=(1, 2, 0) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 0) g=19 action=STAY time=19
+POP state=(2, 2, 5) g=11 time=11
+POP state=(2, 2, 12) g=11 time=11
+POP state=(3, 0, 12) g=11 time=11
+PUSH state=(2, 0, 14) g=12 action=UP time=12
+PUSH state=(4, 0, 12) g=13 action=DOWN time=13
+PUSH state=(3, 1, 12) g=20 action=RIGHT time=20
+PUSH state=(3, 0, 12) g=13 action=STAY time=13
+POP state=(4, 0, 12) g=11 time=11
+POP state=(2, 2, 8) g=11 time=11
+POP state=(3, 0, 8) g=11 time=11
+PUSH state=(2, 0, 10) g=12 action=UP time=12
+PUSH state=(4, 0, 8) g=13 action=DOWN time=13
+PUSH state=(3, 1, 8) g=20 action=RIGHT time=20
+PUSH state=(3, 0, 8) g=13 action=STAY time=13
+POP state=(4, 0, 8) g=11 time=11
+POP state=(2, 2, 5) g=11 time=11
+POP state=(2, 2, 12) g=11 time=11
+POP state=(2, 2, 8) g=11 time=11
+POP state=(4, 2, 13) g=11 time=11
+PUSH state=(4, 2, 13) g=12 action=STAY time=12
+PUSH state=(4, 2, 13) g=13 action=STAY time=13
+PUSH state=(4, 2, 13) g=14 action=STAY time=14
+PUSH state=(4, 2, 13) g=15 action=STAY time=15
+PUSH state=(4, 2, 13) g=16 action=STAY time=16
+PUSH state=(4, 2, 13) g=17 action=STAY time=17
+PUSH state=(4, 2, 13) g=18 action=STAY time=18
+PUSH state=(4, 2, 13) g=19 action=STAY time=19
+PUSH state=(4, 2, 13) g=20 action=STAY time=20
+PUSH state=(3, 2, 13) g=21 action=UP time=21
+PUSH state=(4, 2, 13) g=12 action=STAY time=12
+PUSH state=(4, 2, 13) g=13 action=STAY time=13
+PUSH state=(4, 2, 13) g=14 action=STAY time=14
+PUSH state=(4, 2, 13) g=15 action=STAY time=15
+PUSH state=(4, 2, 13) g=16 action=STAY time=16
+PUSH state=(4, 2, 13) g=17 action=STAY time=17
+PUSH state=(4, 2, 13) g=18 action=STAY time=18
+PUSH state=(4, 2, 13) g=19 action=STAY time=19
+PUSH state=(4, 2, 13) g=20 action=STAY time=20
+PUSH state=(4, 1, 13) g=21 action=LEFT time=21
+PUSH state=(4, 3, 13) g=12 action=RIGHT time=12
+PUSH state=(4, 2, 13) g=12 action=STAY time=12
+POP state=(3, 2, 5) g=11 time=11
+POP state=(3, 2, 5) g=11 time=11
+POP state=(0, 2, 13) g=11 time=11
+PUSH state=(0, 2, 13) g=12 action=STAY time=12
+PUSH state=(0, 2, 13) g=13 action=STAY time=13
+PUSH state=(0, 2, 13) g=14 action=STAY time=14
+PUSH state=(0, 2, 13) g=15 action=STAY time=15
+PUSH state=(0, 2, 13) g=16 action=STAY time=16
+PUSH state=(0, 2, 13) g=17 action=STAY time=17
+PUSH state=(0, 2, 13) g=18 action=STAY time=18
+PUSH state=(0, 2, 13) g=19 action=STAY time=19
+PUSH state=(0, 2, 13) g=20 action=STAY time=20
+PUSH state=(1, 2, 13) g=21 action=DOWN time=21
+PUSH state=(0, 1, 13) g=14 action=LEFT time=14
+PUSH state=(0, 3, 13) g=20 action=RIGHT time=20
+PUSH state=(0, 2, 13) g=12 action=STAY time=12
+POP state=(1, 3, 12) g=11 time=11
+POP state=(1, 2, 12) g=11 time=11
+POP state=(0, 2, 9) g=11 time=11
+PUSH state=(0, 2, 9) g=12 action=STAY time=12
+PUSH state=(0, 2, 9) g=13 action=STAY time=13
+PUSH state=(0, 2, 9) g=14 action=STAY time=14
+PUSH state=(0, 2, 9) g=15 action=STAY time=15
+PUSH state=(0, 2, 9) g=16 action=STAY time=16
+PUSH state=(0, 2, 9) g=17 action=STAY time=17
+PUSH state=(0, 2, 9) g=18 action=STAY time=18
+PUSH state=(0, 2, 9) g=19 action=STAY time=19
+PUSH state=(0, 2, 9) g=20 action=STAY time=20
+PUSH state=(1, 2, 9) g=21 action=DOWN time=21
+PUSH state=(0, 1, 9) g=14 action=LEFT time=14
+PUSH state=(0, 3, 9) g=20 action=RIGHT time=20
+PUSH state=(0, 2, 9) g=12 action=STAY time=12
+POP state=(1, 3, 8) g=11 time=11
+POP state=(1, 2, 8) g=11 time=11
+POP state=(4, 2, 9) g=11 time=11
+POP state=(3, 2, 9) g=11 time=11
+POP state=(3, 2, 9) g=11 time=11
+POP state=(4, 2, 9) g=11 time=11
+POP state=(4, 1, 9) g=11 time=11
+POP state=(4, 3, 9) g=11 time=11
+POP state=(4, 2, 9) g=11 time=11
+POP state=(4, 3, 9) g=11 time=11
+POP state=(4, 3, 9) g=11 time=11
+POP state=(3, 3, 5) g=11 time=11
+POP state=(4, 3, 5) g=11 time=11
+PUSH state=(4, 3, 5) g=12 action=STAY time=12
+PUSH state=(4, 3, 5) g=13 action=STAY time=13
+PUSH state=(4, 3, 5) g=14 action=STAY time=14
+PUSH state=(4, 3, 5) g=15 action=STAY time=15
+PUSH state=(4, 3, 5) g=16 action=STAY time=16
+PUSH state=(4, 3, 5) g=17 action=STAY time=17
+PUSH state=(4, 3, 5) g=18 action=STAY time=18
+PUSH state=(4, 3, 5) g=19 action=STAY time=19
+PUSH state=(4, 3, 5) g=20 action=STAY time=20
+PUSH state=(3, 3, 5) g=21 action=UP time=21
+PUSH state=(4, 2, 13) g=12 action=LEFT time=12
+PUSH state=(4, 3, 5) g=12 action=STAY time=12
+PUSH state=(4, 3, 5) g=13 action=STAY time=13
+PUSH state=(4, 3, 5) g=14 action=STAY time=14
+PUSH state=(4, 3, 5) g=15 action=STAY time=15
+PUSH state=(4, 3, 5) g=16 action=STAY time=16
+PUSH state=(4, 3, 5) g=17 action=STAY time=17
+PUSH state=(4, 3, 5) g=18 action=STAY time=18
+PUSH state=(4, 3, 5) g=19 action=STAY time=19
+PUSH state=(4, 3, 5) g=20 action=STAY time=20
+PUSH state=(4, 4, 5) g=21 action=RIGHT time=21
+PUSH state=(4, 3, 5) g=12 action=STAY time=12
+POP state=(3, 3, 5) g=11 time=11
+POP state=(3, 3, 5) g=11 time=11
+POP state=(1, 4, 5) g=11 time=11
+POP state=(0, 4, 5) g=11 time=11
+POP state=(1, 3, 12) g=11 time=11
+POP state=(1, 3, 12) g=11 time=11
+POP state=(1, 4, 12) g=11 time=11
+PUSH state=(0, 4, 12) g=12 action=UP time=12
+PUSH state=(2, 4, 12) g=12 action=DOWN time=12
+PUSH state=(1, 3, 12) g=12 action=LEFT time=12
+PUSH state=(1, 4, 12) g=12 action=STAY time=12
+POP state=(1, 3, 12) g=11 time=11
+POP state=(1, 4, 12) g=11 time=11
+POP state=(2, 4, 12) g=11 time=11
+POP state=(2, 4, 12) g=11 time=11
+POP state=(1, 3, 8) g=11 time=11
+POP state=(1, 3, 8) g=11 time=11
+POP state=(1, 4, 8) g=11 time=11
+PUSH state=(0, 4, 8) g=12 action=UP time=12
+PUSH state=(2, 4, 12) g=12 action=DOWN time=12
+PUSH state=(1, 3, 8) g=12 action=LEFT time=12
+PUSH state=(1, 4, 8) g=12 action=STAY time=12
+POP state=(1, 3, 8) g=11 time=11
+POP state=(4, 3, 1) g=11 time=11
+POP state=(4, 4, 1) g=11 time=11
+POP state=(0, 1, 5) g=12 time=12
+POP state=(2, 2, 5) g=12 time=12
+POP state=(3, 2, 5) g=12 time=12
+POP state=(3, 2, 5) g=12 time=12
+POP state=(2, 2, 12) g=12 time=12
+POP state=(1, 2, 12) g=12 time=12
+POP state=(2, 2, 8) g=12 time=12
+POP state=(1, 2, 8) g=12 time=12
+POP state=(2, 2, 9) g=12 time=12
+PUSH state=(2, 2, 9) g=13 action=STAY time=13
+PUSH state=(2, 2, 9) g=14 action=STAY time=14
+PUSH state=(2, 2, 9) g=15 action=STAY time=15
+PUSH state=(2, 2, 9) g=16 action=STAY time=16
+PUSH state=(2, 2, 9) g=17 action=STAY time=17
+PUSH state=(2, 2, 9) g=18 action=STAY time=18
+PUSH state=(2, 2, 9) g=19 action=STAY time=19
+PUSH state=(2, 2, 9) g=20 action=STAY time=20
+PUSH state=(1, 2, 9) g=21 action=UP time=21
+PUSH state=(2, 2, 9) g=13 action=STAY time=13
+PUSH state=(2, 2, 9) g=14 action=STAY time=14
+PUSH state=(2, 2, 9) g=15 action=STAY time=15
+PUSH state=(2, 2, 9) g=16 action=STAY time=16
+PUSH state=(2, 2, 9) g=17 action=STAY time=17
+PUSH state=(2, 2, 9) g=18 action=STAY time=18
+PUSH state=(2, 2, 9) g=19 action=STAY time=19
+PUSH state=(2, 2, 9) g=20 action=STAY time=20
+PUSH state=(3, 2, 9) g=21 action=DOWN time=21
+PUSH state=(2, 1, 9) g=21 action=LEFT time=21
+PUSH state=(2, 2, 9) g=13 action=STAY time=13
+PUSH state=(2, 2, 9) g=14 action=STAY time=14
+PUSH state=(2, 2, 9) g=15 action=STAY time=15
+PUSH state=(2, 2, 9) g=16 action=STAY time=16
+PUSH state=(2, 2, 9) g=17 action=STAY time=17
+PUSH state=(2, 2, 9) g=18 action=STAY time=18
+PUSH state=(2, 2, 9) g=19 action=STAY time=19
+PUSH state=(2, 2, 9) g=20 action=STAY time=20
+PUSH state=(2, 3, 9) g=21 action=RIGHT time=21
+PUSH state=(2, 2, 9) g=14 action=STAY time=14
+POP state=(3, 2, 9) g=12 time=12
+POP state=(3, 2, 9) g=12 time=12
+POP state=(4, 0, 9) g=12 time=12
+PUSH state=(3, 0, 9) g=14 action=UP time=14
+PUSH state=(4, 0, 9) g=13 action=STAY time=13
+PUSH state=(4, 0, 9) g=14 action=STAY time=14
+PUSH state=(4, 0, 9) g=15 action=STAY time=15
+PUSH state=(4, 0, 9) g=16 action=STAY time=16
+PUSH state=(4, 0, 9) g=17 action=STAY time=17
+PUSH state=(4, 0, 9) g=18 action=STAY time=18
+PUSH state=(4, 0, 9) g=19 action=STAY time=19
+PUSH state=(4, 0, 9) g=20 action=STAY time=20
+PUSH state=(4, 1, 9) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 9) g=14 action=STAY time=14
+POP state=(4, 1, 9) g=12 time=12
+POP state=(4, 3, 9) g=12 time=12
+POP state=(4, 3, 9) g=12 time=12
+POP state=(3, 3, 5) g=12 time=12
+POP state=(3, 3, 5) g=12 time=12
+POP state=(3, 3, 5) g=12 time=12
+POP state=(1, 3, 12) g=12 time=12
+POP state=(1, 3, 12) g=12 time=12
+POP state=(2, 4, 12) g=12 time=12
+POP state=(1, 3, 8) g=12 time=12
+POP state=(1, 3, 8) g=12 time=12
+POP state=(4, 4, 1) g=12 time=12
+POP state=(2, 4, 4) g=12 time=12
+POP state=(3, 4, 4) g=12 time=12
+POP state=(3, 4, 4) g=12 time=12
+POP state=(1, 1, 0) g=12 time=12
+POP state=(1, 1, 0) g=12 time=12
+POP state=(2, 0, 14) g=12 time=12
+PUSH state=(2, 0, 14) g=13 action=STAY time=13
+PUSH state=(2, 0, 14) g=14 action=STAY time=14
+PUSH state=(2, 0, 14) g=15 action=STAY time=15
+PUSH state=(2, 0, 14) g=16 action=STAY time=16
+PUSH state=(2, 0, 14) g=17 action=STAY time=17
+PUSH state=(2, 0, 14) g=18 action=STAY time=18
+PUSH state=(2, 0, 14) g=19 action=STAY time=19
+PUSH state=(2, 0, 14) g=20 action=STAY time=20
+PUSH state=(1, 0, 14) g=21 action=UP time=21
+PUSH state=(3, 0, 14) g=14 action=DOWN time=14
+PUSH state=(2, 1, 14) g=21 action=RIGHT time=21
+PUSH state=(2, 0, 14) g=13 action=STAY time=13
+POP state=(2, 0, 10) g=12 time=12
+PUSH state=(2, 0, 10) g=13 action=STAY time=13
+PUSH state=(2, 0, 10) g=14 action=STAY time=14
+PUSH state=(2, 0, 10) g=15 action=STAY time=15
+PUSH state=(2, 0, 10) g=16 action=STAY time=16
+PUSH state=(2, 0, 10) g=17 action=STAY time=17
+PUSH state=(2, 0, 10) g=18 action=STAY time=18
+PUSH state=(2, 0, 10) g=19 action=STAY time=19
+PUSH state=(2, 0, 10) g=20 action=STAY time=20
+PUSH state=(1, 0, 10) g=21 action=UP time=21
+PUSH state=(3, 0, 10) g=14 action=DOWN time=14
+PUSH state=(2, 1, 10) g=21 action=RIGHT time=21
+PUSH state=(2, 0, 10) g=13 action=STAY time=13
+POP state=(4, 2, 13) g=12 time=12
+POP state=(4, 2, 13) g=12 time=12
+POP state=(4, 3, 13) g=12 time=12
+PUSH state=(4, 3, 13) g=13 action=STAY time=13
+PUSH state=(4, 3, 13) g=14 action=STAY time=14
+PUSH state=(4, 3, 13) g=15 action=STAY time=15
+PUSH state=(4, 3, 13) g=16 action=STAY time=16
+PUSH state=(4, 3, 13) g=17 action=STAY time=17
+PUSH state=(4, 3, 13) g=18 action=STAY time=18
+PUSH state=(4, 3, 13) g=19 action=STAY time=19
+PUSH state=(4, 3, 13) g=20 action=STAY time=20
+PUSH state=(3, 3, 13) g=21 action=UP time=21
+PUSH state=(4, 2, 13) g=13 action=LEFT time=13
+PUSH state=(4, 3, 13) g=13 action=STAY time=13
+PUSH state=(4, 3, 13) g=14 action=STAY time=14
+PUSH state=(4, 3, 13) g=15 action=STAY time=15
+PUSH state=(4, 3, 13) g=16 action=STAY time=16
+PUSH state=(4, 3, 13) g=17 action=STAY time=17
+PUSH state=(4, 3, 13) g=18 action=STAY time=18
+PUSH state=(4, 3, 13) g=19 action=STAY time=19
+PUSH state=(4, 3, 13) g=20 action=STAY time=20
+PUSH state=(4, 4, 13) g=21 action=RIGHT time=21
+PUSH state=(4, 3, 13) g=13 action=STAY time=13
+POP state=(4, 2, 13) g=12 time=12
+POP state=(0, 2, 13) g=12 time=12
+POP state=(0, 2, 13) g=12 time=12
+POP state=(0, 2, 9) g=12 time=12
+POP state=(0, 2, 9) g=12 time=12
+POP state=(4, 3, 5) g=12 time=12
+POP state=(4, 2, 13) g=12 time=12
+POP state=(4, 3, 5) g=12 time=12
+POP state=(4, 3, 5) g=12 time=12
+POP state=(0, 4, 12) g=12 time=12
+PUSH state=(1, 4, 12) g=13 action=DOWN time=13
+PUSH state=(0, 3, 12) g=21 action=LEFT time=21
+PUSH state=(0, 4, 12) g=13 action=STAY time=13
+POP state=(2, 4, 12) g=12 time=12
+POP state=(1, 3, 12) g=12 time=12
+POP state=(1, 4, 12) g=12 time=12
+POP state=(0, 4, 8) g=12 time=12
+PUSH state=(1, 4, 8) g=13 action=DOWN time=13
+PUSH state=(0, 3, 8) g=21 action=LEFT time=21
+PUSH state=(0, 4, 8) g=13 action=STAY time=13
+POP state=(2, 4, 12) g=12 time=12
+POP state=(1, 3, 8) g=12 time=12
+POP state=(1, 4, 8) g=12 time=12
+POP state=(0, 3, 4) g=13 time=13
+PUSH state=(1, 3, 4) g=14 action=DOWN time=14
+PUSH state=(0, 2, 5) g=14 action=LEFT time=14
+PUSH state=(0, 4, 4) g=14 action=RIGHT time=14
+PUSH state=(0, 3, 4) g=22 action=STAY time=22
+POP state=(0, 3, 4) g=13 time=13
+POP state=(3, 4, 4) g=13 time=13
+POP state=(3, 4, 0) g=13 time=13
+PUSH state=(2, 4, 4) g=14 action=UP time=14
+PUSH state=(3, 4, 0) g=14 action=STAY time=14
+PUSH state=(3, 4, 0) g=15 action=STAY time=15
+PUSH state=(3, 4, 0) g=16 action=STAY time=16
+PUSH state=(3, 4, 0) g=17 action=STAY time=17
+PUSH state=(3, 4, 0) g=18 action=STAY time=18
+PUSH state=(3, 4, 0) g=19 action=STAY time=19
+PUSH state=(3, 4, 0) g=20 action=STAY time=20
+PUSH state=(4, 4, 0) g=21 action=DOWN time=21
+PUSH state=(3, 4, 0) g=14 action=STAY time=14
+PUSH state=(3, 4, 0) g=15 action=STAY time=15
+PUSH state=(3, 4, 0) g=16 action=STAY time=16
+PUSH state=(3, 4, 0) g=17 action=STAY time=17
+PUSH state=(3, 4, 0) g=18 action=STAY time=18
+PUSH state=(3, 4, 0) g=19 action=STAY time=19
+PUSH state=(3, 4, 0) g=20 action=STAY time=20
+PUSH state=(3, 3, 0) g=21 action=LEFT time=21
+PUSH state=(3, 4, 0) g=22 action=STAY time=22
+POP state=(0, 3, 1) g=13 time=13
+PUSH state=(1, 3, 1) g=14 action=DOWN time=14
+PUSH state=(0, 2, 1) g=14 action=LEFT time=14
+PUSH state=(0, 4, 1) g=14 action=RIGHT time=14
+PUSH state=(0, 3, 1) g=22 action=STAY time=22
+POP state=(1, 1, 4) g=13 time=13
+PUSH state=(0, 1, 4) g=16 action=UP time=16
+PUSH state=(2, 1, 4) g=22 action=DOWN time=22
+PUSH state=(1, 1, 4) g=14 action=STAY time=14
+PUSH state=(1, 1, 4) g=15 action=STAY time=15
+PUSH state=(1, 1, 4) g=16 action=STAY time=16
+PUSH state=(1, 1, 4) g=17 action=STAY time=17
+PUSH state=(1, 1, 4) g=18 action=STAY time=18
+PUSH state=(1, 1, 4) g=19 action=STAY time=19
+PUSH state=(1, 1, 4) g=20 action=STAY time=20
+PUSH state=(1, 0, 4) g=21 action=LEFT time=21
+PUSH state=(1, 1, 4) g=14 action=STAY time=14
+PUSH state=(1, 1, 4) g=15 action=STAY time=15
+PUSH state=(1, 1, 4) g=16 action=STAY time=16
+PUSH state=(1, 1, 4) g=17 action=STAY time=17
+PUSH state=(1, 1, 4) g=18 action=STAY time=18
+PUSH state=(1, 1, 4) g=19 action=STAY time=19
+PUSH state=(1, 1, 4) g=20 action=STAY time=20
+PUSH state=(1, 2, 4) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 4) g=21 action=STAY time=21
+POP state=(1, 1, 1) g=13 time=13
+PUSH state=(0, 1, 1) g=16 action=UP time=16
+PUSH state=(2, 1, 1) g=22 action=DOWN time=22
+PUSH state=(1, 1, 1) g=14 action=STAY time=14
+PUSH state=(1, 1, 1) g=15 action=STAY time=15
+PUSH state=(1, 1, 1) g=16 action=STAY time=16
+PUSH state=(1, 1, 1) g=17 action=STAY time=17
+PUSH state=(1, 1, 1) g=18 action=STAY time=18
+PUSH state=(1, 1, 1) g=19 action=STAY time=19
+PUSH state=(1, 1, 1) g=20 action=STAY time=20
+PUSH state=(1, 0, 1) g=21 action=LEFT time=21
+PUSH state=(1, 1, 1) g=14 action=STAY time=14
+PUSH state=(1, 1, 1) g=15 action=STAY time=15
+PUSH state=(1, 1, 1) g=16 action=STAY time=16
+PUSH state=(1, 1, 1) g=17 action=STAY time=17
+PUSH state=(1, 1, 1) g=18 action=STAY time=18
+PUSH state=(1, 1, 1) g=19 action=STAY time=19
+PUSH state=(1, 1, 1) g=20 action=STAY time=20
+PUSH state=(1, 2, 1) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 1) g=21 action=STAY time=21
+POP state=(3, 2, 5) g=13 time=13
+POP state=(3, 2, 5) g=13 time=13
+POP state=(1, 2, 12) g=13 time=13
+POP state=(1, 2, 8) g=13 time=13
+POP state=(3, 2, 9) g=13 time=13
+POP state=(3, 2, 9) g=13 time=13
+POP state=(4, 1, 9) g=13 time=13
+POP state=(4, 3, 9) g=13 time=13
+POP state=(4, 3, 9) g=13 time=13
+POP state=(3, 3, 5) g=13 time=13
+POP state=(3, 3, 5) g=13 time=13
+POP state=(3, 3, 5) g=13 time=13
+POP state=(1, 3, 12) g=13 time=13
+POP state=(1, 3, 12) g=13 time=13
+POP state=(2, 4, 12) g=13 time=13
+POP state=(1, 3, 8) g=13 time=13
+POP state=(1, 3, 8) g=13 time=13
+POP state=(4, 4, 1) g=13 time=13
+POP state=(3, 4, 4) g=13 time=13
+POP state=(3, 4, 4) g=13 time=13
+POP state=(1, 1, 0) g=13 time=13
+POP state=(1, 1, 0) g=13 time=13
+POP state=(4, 0, 12) g=13 time=13
+POP state=(3, 0, 12) g=13 time=13
+POP state=(4, 0, 8) g=13 time=13
+POP state=(3, 0, 8) g=13 time=13
+POP state=(4, 2, 13) g=13 time=13
+POP state=(4, 2, 13) g=13 time=13
+POP state=(0, 2, 13) g=13 time=13
+POP state=(0, 2, 9) g=13 time=13
+POP state=(4, 3, 5) g=13 time=13
+POP state=(4, 3, 5) g=13 time=13
+POP state=(2, 2, 9) g=13 time=13
+POP state=(2, 2, 9) g=13 time=13
+POP state=(2, 2, 9) g=13 time=13
+POP state=(4, 0, 9) g=13 time=13
+POP state=(2, 0, 14) g=13 time=13
+POP state=(2, 0, 14) g=13 time=13
+POP state=(2, 0, 10) g=13 time=13
+POP state=(2, 0, 10) g=13 time=13
+POP state=(4, 3, 13) g=13 time=13
+POP state=(4, 2, 13) g=13 time=13
+POP state=(4, 3, 13) g=13 time=13
+POP state=(4, 3, 13) g=13 time=13
+POP state=(1, 4, 12) g=13 time=13
+POP state=(0, 4, 12) g=13 time=13
+POP state=(1, 4, 8) g=13 time=13
+POP state=(0, 4, 8) g=13 time=13
+POP state=(2, 1, 4) g=14 time=14
+PUSH state=(1, 1, 4) g=22 action=UP time=22
+PUSH state=(3, 1, 4) g=23 action=DOWN time=23
+PUSH state=(2, 0, 6) g=15 action=LEFT time=15
+PUSH state=(2, 2, 4) g=16 action=RIGHT time=16
+PUSH state=(2, 1, 4) g=23 action=STAY time=23
+POP state=(2, 1, 0) g=14 time=14
+PUSH state=(1, 1, 0) g=22 action=UP time=22
+PUSH state=(3, 1, 0) g=23 action=DOWN time=23
+PUSH state=(2, 0, 2) g=15 action=LEFT time=15
+PUSH state=(2, 2, 0) g=16 action=RIGHT time=16
+PUSH state=(2, 1, 0) g=23 action=STAY time=23
+POP state=(3, 1, 4) g=14 time=14
+PUSH state=(2, 1, 4) g=23 action=UP time=23
+PUSH state=(3, 1, 4) g=15 action=STAY time=15
+PUSH state=(3, 1, 4) g=16 action=STAY time=16
+PUSH state=(3, 1, 4) g=17 action=STAY time=17
+PUSH state=(3, 1, 4) g=18 action=STAY time=18
+PUSH state=(3, 1, 4) g=19 action=STAY time=19
+PUSH state=(3, 1, 4) g=20 action=STAY time=20
+PUSH state=(4, 1, 4) g=21 action=DOWN time=21
+PUSH state=(3, 0, 4) g=16 action=LEFT time=16
+PUSH state=(3, 1, 4) g=15 action=STAY time=15
+PUSH state=(3, 1, 4) g=16 action=STAY time=16
+PUSH state=(3, 1, 4) g=17 action=STAY time=17
+PUSH state=(3, 1, 4) g=18 action=STAY time=18
+PUSH state=(3, 1, 4) g=19 action=STAY time=19
+PUSH state=(3, 1, 4) g=20 action=STAY time=20
+PUSH state=(3, 2, 4) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 4) g=23 action=STAY time=23
+POP state=(3, 1, 0) g=14 time=14
+PUSH state=(2, 1, 0) g=23 action=UP time=23
+PUSH state=(3, 1, 0) g=15 action=STAY time=15
+PUSH state=(3, 1, 0) g=16 action=STAY time=16
+PUSH state=(3, 1, 0) g=17 action=STAY time=17
+PUSH state=(3, 1, 0) g=18 action=STAY time=18
+PUSH state=(3, 1, 0) g=19 action=STAY time=19
+PUSH state=(3, 1, 0) g=20 action=STAY time=20
+PUSH state=(4, 1, 0) g=21 action=DOWN time=21
+PUSH state=(3, 0, 0) g=16 action=LEFT time=16
+PUSH state=(3, 1, 0) g=15 action=STAY time=15
+PUSH state=(3, 1, 0) g=16 action=STAY time=16
+PUSH state=(3, 1, 0) g=17 action=STAY time=17
+PUSH state=(3, 1, 0) g=18 action=STAY time=18
+PUSH state=(3, 1, 0) g=19 action=STAY time=19
+PUSH state=(3, 1, 0) g=20 action=STAY time=20
+PUSH state=(3, 2, 0) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 0) g=23 action=STAY time=23
+POP state=(3, 2, 5) g=14 time=14
+POP state=(3, 2, 5) g=14 time=14
+POP state=(1, 2, 12) g=14 time=14
+POP state=(1, 2, 8) g=14 time=14
+POP state=(3, 2, 9) g=14 time=14
+POP state=(3, 2, 9) g=14 time=14
+POP state=(4, 1, 9) g=14 time=14
+POP state=(4, 3, 9) g=14 time=14
+POP state=(4, 3, 9) g=14 time=14
+POP state=(3, 3, 5) g=14 time=14
+POP state=(3, 3, 5) g=14 time=14
+POP state=(3, 3, 5) g=14 time=14
+POP state=(1, 3, 12) g=14 time=14
+POP state=(1, 3, 12) g=14 time=14
+POP state=(2, 4, 12) g=14 time=14
+POP state=(1, 3, 8) g=14 time=14
+POP state=(1, 3, 8) g=14 time=14
+POP state=(4, 4, 1) g=14 time=14
+POP state=(3, 4, 4) g=14 time=14
+POP state=(3, 4, 4) g=14 time=14
+POP state=(0, 1, 0) g=14 time=14
+PUSH state=(1, 1, 0) g=22 action=DOWN time=22
+PUSH state=(0, 0, 0) g=23 action=LEFT time=23
+PUSH state=(0, 2, 1) g=15 action=RIGHT time=15
+PUSH state=(0, 1, 0) g=17 action=STAY time=17
+POP state=(1, 1, 0) g=14 time=14
+POP state=(1, 1, 0) g=14 time=14
+POP state=(4, 2, 13) g=14 time=14
+POP state=(4, 2, 13) g=14 time=14
+POP state=(0, 2, 13) g=14 time=14
+POP state=(0, 1, 13) g=14 time=14
+PUSH state=(1, 1, 13) g=22 action=DOWN time=22
+PUSH state=(0, 0, 13) g=23 action=LEFT time=23
+PUSH state=(0, 2, 13) g=15 action=RIGHT time=15
+PUSH state=(0, 1, 13) g=17 action=STAY time=17
+POP state=(0, 2, 9) g=14 time=14
+POP state=(0, 1, 9) g=14 time=14
+PUSH state=(1, 1, 9) g=22 action=DOWN time=22
+PUSH state=(0, 0, 9) g=23 action=LEFT time=23
+PUSH state=(0, 2, 9) g=15 action=RIGHT time=15
+PUSH state=(0, 1, 9) g=17 action=STAY time=17
+POP state=(4, 3, 5) g=14 time=14
+POP state=(4, 3, 5) g=14 time=14
+POP state=(2, 2, 9) g=14 time=14
+POP state=(2, 2, 9) g=14 time=14
+POP state=(2, 2, 9) g=14 time=14
+POP state=(2, 2, 9) g=14 time=14
+POP state=(3, 0, 9) g=14 time=14
+PUSH state=(2, 0, 11) g=15 action=UP time=15
+PUSH state=(4, 0, 9) g=16 action=DOWN time=16
+PUSH state=(3, 1, 9) g=23 action=RIGHT time=23
+PUSH state=(3, 0, 9) g=16 action=STAY time=16
+POP state=(4, 0, 9) g=14 time=14
+POP state=(4, 0, 9) g=14 time=14
+POP state=(2, 0, 14) g=14 time=14
+POP state=(3, 0, 14) g=14 time=14
+PUSH state=(2, 0, 14) g=15 action=UP time=15
+PUSH state=(4, 0, 14) g=16 action=DOWN time=16
+PUSH state=(3, 1, 14) g=23 action=RIGHT time=23
+PUSH state=(3, 0, 14) g=16 action=STAY time=16
+POP state=(2, 0, 10) g=14 time=14
+POP state=(3, 0, 10) g=14 time=14
+PUSH state=(2, 0, 10) g=15 action=UP time=15
+PUSH state=(4, 0, 10) g=16 action=DOWN time=16
+PUSH state=(3, 1, 10) g=23 action=RIGHT time=23
+PUSH state=(3, 0, 10) g=16 action=STAY time=16
+POP state=(4, 3, 13) g=14 time=14
+POP state=(4, 3, 13) g=14 time=14
+POP state=(1, 3, 4) g=14 time=14
+POP state=(0, 2, 5) g=14 time=14
+POP state=(0, 4, 4) g=14 time=14
+POP state=(2, 4, 4) g=14 time=14
+POP state=(3, 4, 0) g=14 time=14
+POP state=(3, 4, 0) g=14 time=14
+POP state=(1, 3, 1) g=14 time=14
+POP state=(0, 2, 1) g=14 time=14
+POP state=(0, 4, 1) g=14 time=14
+POP state=(1, 1, 4) g=14 time=14
+POP state=(1, 1, 4) g=14 time=14
+POP state=(1, 1, 1) g=14 time=14
+POP state=(1, 1, 1) g=14 time=14
+POP state=(0, 3, 5) g=15 time=15
+PUSH state=(1, 3, 5) g=16 action=DOWN time=16
+PUSH state=(0, 2, 5) g=16 action=LEFT time=16
+PUSH state=(0, 4, 5) g=16 action=RIGHT time=16
+PUSH state=(0, 3, 5) g=24 action=STAY time=24
+POP state=(3, 4, 4) g=15 time=15
+POP state=(3, 4, 0) g=15 time=15
+POP state=(0, 3, 1) g=15 time=15
+POP state=(1, 1, 1) g=15 time=15
+POP state=(1, 1, 5) g=15 time=15
+PUSH state=(0, 1, 5) g=18 action=UP time=18
+PUSH state=(2, 1, 5) g=24 action=DOWN time=24
+PUSH state=(1, 1, 5) g=16 action=STAY time=16
+PUSH state=(1, 1, 5) g=17 action=STAY time=17
+PUSH state=(1, 1, 5) g=18 action=STAY time=18
+PUSH state=(1, 1, 5) g=19 action=STAY time=19
+PUSH state=(1, 1, 5) g=20 action=STAY time=20
+PUSH state=(1, 0, 5) g=21 action=LEFT time=21
+PUSH state=(1, 1, 5) g=16 action=STAY time=16
+PUSH state=(1, 1, 5) g=17 action=STAY time=17
+PUSH state=(1, 1, 5) g=18 action=STAY time=18
+PUSH state=(1, 1, 5) g=19 action=STAY time=19
+PUSH state=(1, 1, 5) g=20 action=STAY time=20
+PUSH state=(1, 2, 5) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 5) g=23 action=STAY time=23
+POP state=(3, 2, 5) g=15 time=15
+POP state=(3, 2, 5) g=15 time=15
+POP state=(1, 2, 12) g=15 time=15
+POP state=(1, 2, 8) g=15 time=15
+POP state=(3, 2, 9) g=15 time=15
+POP state=(3, 2, 9) g=15 time=15
+POP state=(4, 1, 9) g=15 time=15
+POP state=(4, 3, 9) g=15 time=15
+POP state=(4, 3, 9) g=15 time=15
+POP state=(3, 3, 5) g=15 time=15
+POP state=(3, 3, 5) g=15 time=15
+POP state=(3, 3, 5) g=15 time=15
+POP state=(1, 3, 12) g=15 time=15
+POP state=(1, 3, 12) g=15 time=15
+POP state=(2, 4, 12) g=15 time=15
+POP state=(1, 3, 8) g=15 time=15
+POP state=(1, 3, 8) g=15 time=15
+POP state=(4, 4, 1) g=15 time=15
+POP state=(3, 4, 4) g=15 time=15
+POP state=(3, 4, 4) g=15 time=15
+POP state=(1, 1, 0) g=15 time=15
+POP state=(1, 1, 0) g=15 time=15
+POP state=(4, 2, 13) g=15 time=15
+POP state=(4, 2, 13) g=15 time=15
+POP state=(0, 2, 13) g=15 time=15
+POP state=(0, 2, 9) g=15 time=15
+POP state=(4, 3, 5) g=15 time=15
+POP state=(4, 3, 5) g=15 time=15
+POP state=(2, 2, 9) g=15 time=15
+POP state=(2, 2, 9) g=15 time=15
+POP state=(2, 2, 9) g=15 time=15
+POP state=(4, 0, 9) g=15 time=15
+POP state=(2, 0, 14) g=15 time=15
+POP state=(2, 0, 10) g=15 time=15
+POP state=(4, 3, 13) g=15 time=15
+POP state=(4, 3, 13) g=15 time=15
+POP state=(3, 4, 0) g=15 time=15
+POP state=(3, 4, 0) g=15 time=15
+POP state=(1, 1, 4) g=15 time=15
+POP state=(1, 1, 4) g=15 time=15
+POP state=(1, 1, 1) g=15 time=15
+POP state=(1, 1, 1) g=15 time=15
+POP state=(2, 0, 6) g=15 time=15
+PUSH state=(2, 0, 6) g=16 action=STAY time=16
+PUSH state=(2, 0, 6) g=17 action=STAY time=17
+PUSH state=(2, 0, 6) g=18 action=STAY time=18
+PUSH state=(2, 0, 6) g=19 action=STAY time=19
+PUSH state=(2, 0, 6) g=20 action=STAY time=20
+PUSH state=(1, 0, 6) g=21 action=UP time=21
+PUSH state=(3, 0, 6) g=17 action=DOWN time=17
+PUSH state=(2, 1, 6) g=24 action=RIGHT time=24
+PUSH state=(2, 0, 6) g=16 action=STAY time=16
+POP state=(2, 0, 2) g=15 time=15
+PUSH state=(2, 0, 2) g=16 action=STAY time=16
+PUSH state=(2, 0, 2) g=17 action=STAY time=17
+PUSH state=(2, 0, 2) g=18 action=STAY time=18
+PUSH state=(2, 0, 2) g=19 action=STAY time=19
+PUSH state=(2, 0, 2) g=20 action=STAY time=20
+PUSH state=(1, 0, 2) g=21 action=UP time=21
+PUSH state=(3, 0, 2) g=17 action=DOWN time=17
+PUSH state=(2, 1, 2) g=24 action=RIGHT time=24
+PUSH state=(2, 0, 2) g=16 action=STAY time=16
+POP state=(3, 1, 4) g=15 time=15
+POP state=(3, 1, 4) g=15 time=15
+POP state=(3, 1, 0) g=15 time=15
+POP state=(3, 1, 0) g=15 time=15
+POP state=(0, 2, 1) g=15 time=15
+POP state=(0, 2, 13) g=15 time=15
+POP state=(0, 2, 9) g=15 time=15
+POP state=(2, 0, 11) g=15 time=15
+PUSH state=(2, 0, 11) g=16 action=STAY time=16
+PUSH state=(2, 0, 11) g=17 action=STAY time=17
+PUSH state=(2, 0, 11) g=18 action=STAY time=18
+PUSH state=(2, 0, 11) g=19 action=STAY time=19
+PUSH state=(2, 0, 11) g=20 action=STAY time=20
+PUSH state=(1, 0, 11) g=21 action=UP time=21
+PUSH state=(3, 0, 11) g=17 action=DOWN time=17
+PUSH state=(2, 1, 11) g=24 action=RIGHT time=24
+PUSH state=(2, 0, 11) g=16 action=STAY time=16
+POP state=(2, 0, 14) g=15 time=15
+POP state=(2, 0, 10) g=15 time=15
+POP state=(0, 0, 1) g=16 time=16
+PUSH state=(0, 0, 1) g=17 action=STAY time=17
+PUSH state=(0, 0, 1) g=18 action=STAY time=18
+PUSH state=(0, 0, 1) g=19 action=STAY time=19
+PUSH state=(0, 0, 1) g=20 action=STAY time=20
+PUSH state=(1, 0, 1) g=21 action=DOWN time=21
+PUSH state=(0, 1, 1) g=19 action=RIGHT time=19
+PUSH state=(0, 0, 1) g=25 action=STAY time=25
+POP state=(2, 1, 1) g=16 time=16
+PUSH state=(1, 1, 1) g=24 action=UP time=24
+PUSH state=(3, 1, 1) g=25 action=DOWN time=25
+PUSH state=(2, 0, 3) g=17 action=LEFT time=17
+PUSH state=(2, 2, 1) g=18 action=RIGHT time=18
+PUSH state=(2, 1, 1) g=25 action=STAY time=25
+POP state=(3, 1, 12) g=16 time=16
+PUSH state=(2, 1, 12) g=25 action=UP time=25
+PUSH state=(3, 1, 12) g=17 action=STAY time=17
+PUSH state=(3, 1, 12) g=18 action=STAY time=18
+PUSH state=(3, 1, 12) g=19 action=STAY time=19
+PUSH state=(3, 1, 12) g=20 action=STAY time=20
+PUSH state=(4, 1, 12) g=21 action=DOWN time=21
+PUSH state=(3, 0, 12) g=18 action=LEFT time=18
+PUSH state=(3, 1, 12) g=17 action=STAY time=17
+PUSH state=(3, 1, 12) g=18 action=STAY time=18
+PUSH state=(3, 1, 12) g=19 action=STAY time=19
+PUSH state=(3, 1, 12) g=20 action=STAY time=20
+PUSH state=(3, 2, 12) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 12) g=25 action=STAY time=25
+POP state=(3, 1, 12) g=16 time=16
+POP state=(3, 1, 8) g=16 time=16
+PUSH state=(2, 1, 8) g=25 action=UP time=25
+PUSH state=(3, 1, 8) g=17 action=STAY time=17
+PUSH state=(3, 1, 8) g=18 action=STAY time=18
+PUSH state=(3, 1, 8) g=19 action=STAY time=19
+PUSH state=(3, 1, 8) g=20 action=STAY time=20
+PUSH state=(4, 1, 8) g=21 action=DOWN time=21
+PUSH state=(3, 0, 8) g=18 action=LEFT time=18
+PUSH state=(3, 1, 8) g=17 action=STAY time=17
+PUSH state=(3, 1, 8) g=18 action=STAY time=18
+PUSH state=(3, 1, 8) g=19 action=STAY time=19
+PUSH state=(3, 1, 8) g=20 action=STAY time=20
+PUSH state=(3, 2, 8) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 8) g=25 action=STAY time=25
+POP state=(3, 1, 8) g=16 time=16
+POP state=(3, 2, 5) g=16 time=16
+POP state=(3, 2, 5) g=16 time=16
+POP state=(1, 2, 12) g=16 time=16
+POP state=(1, 2, 8) g=16 time=16
+POP state=(3, 2, 9) g=16 time=16
+POP state=(3, 2, 9) g=16 time=16
+POP state=(4, 1, 9) g=16 time=16
+POP state=(4, 3, 9) g=16 time=16
+POP state=(4, 3, 9) g=16 time=16
+POP state=(3, 3, 5) g=16 time=16
+POP state=(3, 3, 5) g=16 time=16
+POP state=(3, 3, 5) g=16 time=16
+POP state=(1, 3, 12) g=16 time=16
+POP state=(1, 3, 12) g=16 time=16
+POP state=(2, 4, 12) g=16 time=16
+POP state=(1, 3, 8) g=16 time=16
+POP state=(1, 3, 8) g=16 time=16
+POP state=(4, 4, 1) g=16 time=16
+POP state=(3, 4, 4) g=16 time=16
+POP state=(3, 4, 4) g=16 time=16
+POP state=(1, 1, 0) g=16 time=16
+POP state=(1, 1, 0) g=16 time=16
+POP state=(4, 2, 13) g=16 time=16
+POP state=(4, 2, 13) g=16 time=16
+POP state=(0, 2, 13) g=16 time=16
+POP state=(0, 2, 9) g=16 time=16
+POP state=(4, 3, 5) g=16 time=16
+POP state=(4, 3, 5) g=16 time=16
+POP state=(2, 2, 9) g=16 time=16
+POP state=(2, 2, 9) g=16 time=16
+POP state=(2, 2, 9) g=16 time=16
+POP state=(4, 0, 9) g=16 time=16
+POP state=(2, 0, 14) g=16 time=16
+POP state=(2, 0, 10) g=16 time=16
+POP state=(4, 3, 13) g=16 time=16
+POP state=(4, 3, 13) g=16 time=16
+POP state=(3, 4, 0) g=16 time=16
+POP state=(3, 4, 0) g=16 time=16
+POP state=(0, 1, 4) g=16 time=16
+PUSH state=(1, 1, 4) g=24 action=DOWN time=24
+PUSH state=(0, 0, 4) g=25 action=LEFT time=25
+PUSH state=(0, 2, 5) g=17 action=RIGHT time=17
+PUSH state=(0, 1, 4) g=19 action=STAY time=19
+POP state=(1, 1, 4) g=16 time=16
+POP state=(1, 1, 4) g=16 time=16
+POP state=(0, 1, 1) g=16 time=16
+POP state=(1, 1, 1) g=16 time=16
+POP state=(1, 1, 1) g=16 time=16
+POP state=(2, 2, 4) g=16 time=16
+POP state=(2, 2, 0) g=16 time=16
+POP state=(3, 1, 4) g=16 time=16
+POP state=(3, 0, 4) g=16 time=16
+PUSH state=(2, 0, 6) g=17 action=UP time=17
+PUSH state=(4, 0, 4) g=18 action=DOWN time=18
+PUSH state=(3, 1, 4) g=25 action=RIGHT time=25
+PUSH state=(3, 0, 4) g=18 action=STAY time=18
+POP state=(3, 1, 4) g=16 time=16
+POP state=(3, 1, 0) g=16 time=16
+POP state=(3, 0, 0) g=16 time=16
+PUSH state=(2, 0, 2) g=17 action=UP time=17
+PUSH state=(4, 0, 0) g=18 action=DOWN time=18
+PUSH state=(3, 1, 0) g=25 action=RIGHT time=25
+PUSH state=(3, 0, 0) g=18 action=STAY time=18
+POP state=(3, 1, 0) g=16 time=16
+POP state=(4, 0, 9) g=16 time=16
+POP state=(3, 0, 9) g=16 time=16
+POP state=(4, 0, 14) g=16 time=16
+PUSH state=(3, 0, 14) g=18 action=UP time=18
+PUSH state=(4, 0, 14) g=17 action=STAY time=17
+PUSH state=(4, 0, 14) g=18 action=STAY time=18
+PUSH state=(4, 0, 14) g=19 action=STAY time=19
+PUSH state=(4, 0, 14) g=20 action=STAY time=20
+PUSH state=(4, 1, 14) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 14) g=18 action=STAY time=18
+POP state=(3, 0, 14) g=16 time=16
+POP state=(4, 0, 10) g=16 time=16
+PUSH state=(3, 0, 10) g=18 action=UP time=18
+PUSH state=(4, 0, 10) g=17 action=STAY time=17
+PUSH state=(4, 0, 10) g=18 action=STAY time=18
+PUSH state=(4, 0, 10) g=19 action=STAY time=19
+PUSH state=(4, 0, 10) g=20 action=STAY time=20
+PUSH state=(4, 1, 10) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 10) g=18 action=STAY time=18
+POP state=(3, 0, 10) g=16 time=16
+POP state=(1, 3, 5) g=16 time=16
+POP state=(0, 2, 5) g=16 time=16
+POP state=(0, 4, 5) g=16 time=16
+POP state=(1, 1, 5) g=16 time=16
+POP state=(1, 1, 5) g=16 time=16
+POP state=(2, 0, 6) g=16 time=16
+POP state=(2, 0, 6) g=16 time=16
+POP state=(2, 0, 2) g=16 time=16
+POP state=(2, 0, 2) g=16 time=16
+POP state=(2, 0, 11) g=16 time=16
+POP state=(2, 0, 11) g=16 time=16
+POP state=(3, 1, 1) g=17 time=17
+PUSH state=(2, 1, 1) g=26 action=UP time=26
+PUSH state=(3, 1, 1) g=18 action=STAY time=18
+PUSH state=(3, 1, 1) g=19 action=STAY time=19
+PUSH state=(3, 1, 1) g=20 action=STAY time=20
+PUSH state=(4, 1, 1) g=21 action=DOWN time=21
+PUSH state=(3, 0, 1) g=19 action=LEFT time=19
+PUSH state=(3, 1, 1) g=18 action=STAY time=18
+PUSH state=(3, 1, 1) g=19 action=STAY time=19
+PUSH state=(3, 1, 1) g=20 action=STAY time=20
+PUSH state=(3, 2, 1) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 1) g=26 action=STAY time=26
+POP state=(0, 3, 5) g=17 time=17
+POP state=(3, 4, 12) g=17 time=17
+PUSH state=(2, 4, 12) g=18 action=UP time=18
+PUSH state=(3, 4, 12) g=18 action=STAY time=18
+PUSH state=(3, 4, 12) g=19 action=STAY time=19
+PUSH state=(3, 4, 12) g=20 action=STAY time=20
+PUSH state=(4, 4, 12) g=21 action=DOWN time=21
+PUSH state=(3, 4, 12) g=18 action=STAY time=18
+PUSH state=(3, 4, 12) g=19 action=STAY time=19
+PUSH state=(3, 4, 12) g=20 action=STAY time=20
+PUSH state=(3, 3, 12) g=21 action=LEFT time=21
+PUSH state=(3, 4, 12) g=26 action=STAY time=26
+POP state=(3, 4, 12) g=17 time=17
+POP state=(3, 4, 8) g=17 time=17
+PUSH state=(2, 4, 12) g=18 action=UP time=18
+PUSH state=(3, 4, 8) g=18 action=STAY time=18
+PUSH state=(3, 4, 8) g=19 action=STAY time=19
+PUSH state=(3, 4, 8) g=20 action=STAY time=20
+PUSH state=(4, 4, 8) g=21 action=DOWN time=21
+PUSH state=(3, 4, 8) g=18 action=STAY time=18
+PUSH state=(3, 4, 8) g=19 action=STAY time=19
+PUSH state=(3, 4, 8) g=20 action=STAY time=20
+PUSH state=(3, 3, 8) g=21 action=LEFT time=21
+PUSH state=(3, 4, 8) g=26 action=STAY time=26
+POP state=(3, 4, 8) g=17 time=17
+POP state=(3, 4, 1) g=17 time=17
+PUSH state=(2, 4, 5) g=18 action=UP time=18
+PUSH state=(3, 4, 1) g=18 action=STAY time=18
+PUSH state=(3, 4, 1) g=19 action=STAY time=19
+PUSH state=(3, 4, 1) g=20 action=STAY time=20
+PUSH state=(4, 4, 1) g=21 action=DOWN time=21
+PUSH state=(3, 4, 1) g=18 action=STAY time=18
+PUSH state=(3, 4, 1) g=19 action=STAY time=19
+PUSH state=(3, 4, 1) g=20 action=STAY time=20
+PUSH state=(3, 3, 1) g=21 action=LEFT time=21
+PUSH state=(3, 4, 1) g=26 action=STAY time=26
+POP state=(3, 4, 5) g=17 time=17
+PUSH state=(2, 4, 5) g=18 action=UP time=18
+PUSH state=(3, 4, 5) g=18 action=STAY time=18
+PUSH state=(3, 4, 5) g=19 action=STAY time=19
+PUSH state=(3, 4, 5) g=20 action=STAY time=20
+PUSH state=(4, 4, 5) g=21 action=DOWN time=21
+PUSH state=(3, 4, 5) g=18 action=STAY time=18
+PUSH state=(3, 4, 5) g=19 action=STAY time=19
+PUSH state=(3, 4, 5) g=20 action=STAY time=20
+PUSH state=(3, 3, 5) g=21 action=LEFT time=21
+PUSH state=(3, 4, 5) g=26 action=STAY time=26
+POP state=(0, 3, 1) g=17 time=17
+POP state=(1, 1, 5) g=17 time=17
+POP state=(3, 2, 5) g=17 time=17
+POP state=(3, 2, 5) g=17 time=17
+POP state=(1, 2, 12) g=17 time=17
+POP state=(1, 2, 8) g=17 time=17
+POP state=(3, 2, 9) g=17 time=17
+POP state=(3, 2, 9) g=17 time=17
+POP state=(4, 1, 9) g=17 time=17
+POP state=(4, 3, 9) g=17 time=17
+POP state=(4, 3, 9) g=17 time=17
+POP state=(3, 3, 5) g=17 time=17
+POP state=(3, 3, 5) g=17 time=17
+POP state=(3, 3, 5) g=17 time=17
+POP state=(1, 3, 12) g=17 time=17
+POP state=(1, 3, 12) g=17 time=17
+POP state=(2, 4, 12) g=17 time=17
+POP state=(1, 3, 8) g=17 time=17
+POP state=(1, 3, 8) g=17 time=17
+POP state=(4, 4, 1) g=17 time=17
+POP state=(3, 4, 4) g=17 time=17
+POP state=(3, 4, 4) g=17 time=17
+POP state=(1, 1, 0) g=17 time=17
+POP state=(1, 1, 0) g=17 time=17
+POP state=(4, 2, 13) g=17 time=17
+POP state=(4, 2, 13) g=17 time=17
+POP state=(0, 2, 13) g=17 time=17
+POP state=(0, 2, 9) g=17 time=17
+POP state=(4, 3, 5) g=17 time=17
+POP state=(4, 3, 5) g=17 time=17
+POP state=(2, 2, 9) g=17 time=17
+POP state=(2, 2, 9) g=17 time=17
+POP state=(2, 2, 9) g=17 time=17
+POP state=(4, 0, 9) g=17 time=17
+POP state=(2, 0, 14) g=17 time=17
+POP state=(2, 0, 10) g=17 time=17
+POP state=(4, 3, 13) g=17 time=17
+POP state=(4, 3, 13) g=17 time=17
+POP state=(3, 4, 0) g=17 time=17
+POP state=(3, 4, 0) g=17 time=17
+POP state=(1, 1, 4) g=17 time=17
+POP state=(1, 1, 4) g=17 time=17
+POP state=(1, 1, 1) g=17 time=17
+POP state=(1, 1, 1) g=17 time=17
+POP state=(3, 1, 4) g=17 time=17
+POP state=(3, 1, 4) g=17 time=17
+POP state=(3, 1, 0) g=17 time=17
+POP state=(3, 1, 0) g=17 time=17
+POP state=(0, 1, 0) g=17 time=17
+POP state=(0, 1, 13) g=17 time=17
+POP state=(0, 1, 9) g=17 time=17
+POP state=(1, 1, 5) g=17 time=17
+POP state=(1, 1, 5) g=17 time=17
+POP state=(2, 0, 6) g=17 time=17
+POP state=(3, 0, 6) g=17 time=17
+PUSH state=(2, 0, 6) g=18 action=UP time=18
+PUSH state=(4, 0, 6) g=19 action=DOWN time=19
+PUSH state=(3, 1, 6) g=26 action=RIGHT time=26
+PUSH state=(3, 0, 6) g=19 action=STAY time=19
+POP state=(2, 0, 2) g=17 time=17
+POP state=(3, 0, 2) g=17 time=17
+PUSH state=(2, 0, 2) g=18 action=UP time=18
+PUSH state=(4, 0, 2) g=19 action=DOWN time=19
+PUSH state=(3, 1, 2) g=26 action=RIGHT time=26
+PUSH state=(3, 0, 2) g=19 action=STAY time=19
+POP state=(2, 0, 11) g=17 time=17
+POP state=(3, 0, 11) g=17 time=17
+PUSH state=(2, 0, 11) g=18 action=UP time=18
+PUSH state=(4, 0, 11) g=19 action=DOWN time=19
+PUSH state=(3, 1, 11) g=26 action=RIGHT time=26
+PUSH state=(3, 0, 11) g=19 action=STAY time=19
+POP state=(0, 0, 1) g=17 time=17
+POP state=(2, 0, 3) g=17 time=17
+PUSH state=(2, 0, 3) g=18 action=STAY time=18
+PUSH state=(2, 0, 3) g=19 action=STAY time=19
+PUSH state=(2, 0, 3) g=20 action=STAY time=20
+PUSH state=(1, 0, 3) g=21 action=UP time=21
+PUSH state=(3, 0, 3) g=19 action=DOWN time=19
+PUSH state=(2, 1, 3) g=26 action=RIGHT time=26
+PUSH state=(2, 0, 3) g=18 action=STAY time=18
+POP state=(3, 1, 12) g=17 time=17
+POP state=(3, 1, 12) g=17 time=17
+POP state=(3, 1, 8) g=17 time=17
+POP state=(3, 1, 8) g=17 time=17
+POP state=(0, 2, 5) g=17 time=17
+POP state=(2, 0, 6) g=17 time=17
+POP state=(2, 0, 2) g=17 time=17
+POP state=(4, 0, 14) g=17 time=17
+POP state=(4, 0, 10) g=17 time=17
+POP state=(0, 3, 0) g=18 time=18
+POP state=(0, 0, 5) g=18 time=18
+PUSH state=(0, 0, 5) g=19 action=STAY time=19
+PUSH state=(0, 0, 5) g=20 action=STAY time=20
+PUSH state=(1, 0, 5) g=21 action=DOWN time=21
+PUSH state=(0, 1, 5) g=21 action=RIGHT time=21
+PUSH state=(0, 0, 5) g=27 action=STAY time=27
+POP state=(2, 1, 5) g=18 time=18
+PUSH state=(1, 1, 5) g=26 action=UP time=26
+PUSH state=(3, 1, 5) g=27 action=DOWN time=27
+PUSH state=(2, 0, 7) g=19 action=LEFT time=19
+PUSH state=(2, 2, 5) g=20 action=RIGHT time=20
+PUSH state=(2, 1, 5) g=27 action=STAY time=27
+POP state=(2, 1, 12) g=18 time=18
+PUSH state=(1, 1, 12) g=26 action=UP time=26
+PUSH state=(3, 1, 12) g=27 action=DOWN time=27
+PUSH state=(2, 0, 14) g=19 action=LEFT time=19
+PUSH state=(2, 2, 12) g=20 action=RIGHT time=20
+PUSH state=(2, 1, 12) g=27 action=STAY time=27
+POP state=(2, 1, 8) g=18 time=18
+PUSH state=(1, 1, 8) g=26 action=UP time=26
+PUSH state=(3, 1, 8) g=27 action=DOWN time=27
+PUSH state=(2, 0, 10) g=19 action=LEFT time=19
+PUSH state=(2, 2, 8) g=20 action=RIGHT time=20
+PUSH state=(2, 1, 8) g=27 action=STAY time=27
+POP state=(3, 2, 5) g=18 time=18
+POP state=(3, 2, 5) g=18 time=18
+POP state=(1, 1, 12) g=18 time=18
+PUSH state=(0, 1, 12) g=21 action=UP time=21
+PUSH state=(2, 1, 12) g=27 action=DOWN time=27
+PUSH state=(1, 1, 12) g=19 action=STAY time=19
+PUSH state=(1, 1, 12) g=20 action=STAY time=20
+PUSH state=(1, 0, 12) g=21 action=LEFT time=21
+PUSH state=(1, 1, 12) g=19 action=STAY time=19
+PUSH state=(1, 1, 12) g=20 action=STAY time=20
+PUSH state=(1, 2, 12) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 12) g=26 action=STAY time=26
+POP state=(1, 2, 12) g=18 time=18
+POP state=(1, 1, 8) g=18 time=18
+PUSH state=(0, 1, 8) g=21 action=UP time=21
+PUSH state=(2, 1, 8) g=27 action=DOWN time=27
+PUSH state=(1, 1, 8) g=19 action=STAY time=19
+PUSH state=(1, 1, 8) g=20 action=STAY time=20
+PUSH state=(1, 0, 8) g=21 action=LEFT time=21
+PUSH state=(1, 1, 8) g=19 action=STAY time=19
+PUSH state=(1, 1, 8) g=20 action=STAY time=20
+PUSH state=(1, 2, 8) g=21 action=RIGHT time=21
+PUSH state=(1, 1, 8) g=26 action=STAY time=26
+POP state=(1, 2, 8) g=18 time=18
+POP state=(3, 2, 9) g=18 time=18
+POP state=(3, 2, 9) g=18 time=18
+POP state=(4, 1, 9) g=18 time=18
+POP state=(4, 3, 9) g=18 time=18
+POP state=(4, 3, 9) g=18 time=18
+POP state=(3, 3, 5) g=18 time=18
+POP state=(3, 3, 5) g=18 time=18
+POP state=(3, 3, 5) g=18 time=18
+POP state=(1, 3, 12) g=18 time=18
+POP state=(1, 3, 12) g=18 time=18
+POP state=(2, 4, 12) g=18 time=18
+POP state=(1, 3, 8) g=18 time=18
+POP state=(1, 3, 8) g=18 time=18
+POP state=(4, 4, 1) g=18 time=18
+POP state=(3, 4, 4) g=18 time=18
+POP state=(3, 4, 4) g=18 time=18
+POP state=(1, 1, 0) g=18 time=18
+POP state=(1, 1, 0) g=18 time=18
+POP state=(4, 2, 13) g=18 time=18
+POP state=(4, 2, 13) g=18 time=18
+POP state=(0, 2, 13) g=18 time=18
+POP state=(0, 2, 9) g=18 time=18
+POP state=(4, 3, 5) g=18 time=18
+POP state=(4, 3, 5) g=18 time=18
+POP state=(2, 2, 9) g=18 time=18
+POP state=(2, 2, 9) g=18 time=18
+POP state=(2, 2, 9) g=18 time=18
+POP state=(4, 0, 9) g=18 time=18
+POP state=(2, 0, 14) g=18 time=18
+POP state=(2, 0, 10) g=18 time=18
+POP state=(4, 3, 13) g=18 time=18
+POP state=(4, 3, 13) g=18 time=18
+POP state=(3, 4, 0) g=18 time=18
+POP state=(3, 4, 0) g=18 time=18
+POP state=(1, 1, 4) g=18 time=18
+POP state=(1, 1, 4) g=18 time=18
+POP state=(1, 1, 1) g=18 time=18
+POP state=(1, 1, 1) g=18 time=18
+POP state=(3, 1, 4) g=18 time=18
+POP state=(3, 1, 4) g=18 time=18
+POP state=(3, 1, 0) g=18 time=18
+POP state=(3, 1, 0) g=18 time=18
+POP state=(0, 1, 5) g=18 time=18
+POP state=(1, 1, 5) g=18 time=18
+POP state=(1, 1, 5) g=18 time=18
+POP state=(2, 0, 6) g=18 time=18
+POP state=(2, 0, 2) g=18 time=18
+POP state=(2, 0, 11) g=18 time=18
+POP state=(0, 0, 1) g=18 time=18
+POP state=(2, 2, 1) g=18 time=18
+POP state=(3, 1, 12) g=18 time=18
+POP state=(3, 0, 12) g=18 time=18
+POP state=(3, 1, 12) g=18 time=18
+POP state=(3, 1, 8) g=18 time=18
+POP state=(3, 0, 8) g=18 time=18
+POP state=(3, 1, 8) g=18 time=18
+POP state=(4, 0, 4) g=18 time=18
+PUSH state=(3, 0, 4) g=20 action=UP time=20
+PUSH state=(4, 0, 4) g=19 action=STAY time=19
+PUSH state=(4, 0, 4) g=20 action=STAY time=20
+PUSH state=(4, 1, 4) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 4) g=20 action=STAY time=20
+POP state=(3, 0, 4) g=18 time=18
+POP state=(4, 0, 0) g=18 time=18
+PUSH state=(3, 0, 0) g=20 action=UP time=20
+PUSH state=(4, 0, 0) g=19 action=STAY time=19
+PUSH state=(4, 0, 0) g=20 action=STAY time=20
+PUSH state=(4, 1, 0) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 0) g=20 action=STAY time=20
+POP state=(3, 0, 0) g=18 time=18
+POP state=(3, 0, 14) g=18 time=18
+POP state=(4, 0, 14) g=18 time=18
+POP state=(4, 0, 14) g=18 time=18
+POP state=(3, 0, 10) g=18 time=18
+POP state=(4, 0, 10) g=18 time=18
+POP state=(4, 0, 10) g=18 time=18
+POP state=(3, 1, 1) g=18 time=18
+POP state=(3, 1, 1) g=18 time=18
+POP state=(2, 4, 12) g=18 time=18
+POP state=(3, 4, 12) g=18 time=18
+POP state=(3, 4, 12) g=18 time=18
+POP state=(2, 4, 12) g=18 time=18
+POP state=(3, 4, 8) g=18 time=18
+POP state=(3, 4, 8) g=18 time=18
+POP state=(2, 4, 5) g=18 time=18
+POP state=(3, 4, 1) g=18 time=18
+POP state=(3, 4, 1) g=18 time=18
+POP state=(2, 4, 5) g=18 time=18
+POP state=(3, 4, 5) g=18 time=18
+POP state=(3, 4, 5) g=18 time=18
+POP state=(2, 0, 6) g=18 time=18
+POP state=(2, 0, 2) g=18 time=18
+POP state=(2, 0, 11) g=18 time=18
+POP state=(2, 0, 3) g=18 time=18
+POP state=(2, 0, 3) g=18 time=18
+POP state=(3, 1, 5) g=19 time=19
+PUSH state=(2, 1, 5) g=28 action=UP time=28
+PUSH state=(3, 1, 5) g=20 action=STAY time=20
+PUSH state=(4, 1, 5) g=21 action=DOWN time=21
+PUSH state=(3, 0, 5) g=21 action=LEFT time=21
+PUSH state=(3, 1, 5) g=20 action=STAY time=20
+PUSH state=(3, 2, 5) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 5) g=28 action=STAY time=28
+POP state=(3, 2, 5) g=19 time=19
+POP state=(3, 2, 5) g=19 time=19
+POP state=(1, 2, 12) g=19 time=19
+POP state=(1, 2, 8) g=19 time=19
+POP state=(3, 1, 9) g=19 time=19
+PUSH state=(2, 1, 9) g=28 action=UP time=28
+PUSH state=(3, 1, 9) g=20 action=STAY time=20
+PUSH state=(4, 1, 9) g=21 action=DOWN time=21
+PUSH state=(3, 0, 9) g=21 action=LEFT time=21
+PUSH state=(3, 1, 9) g=20 action=STAY time=20
+PUSH state=(3, 2, 9) g=21 action=RIGHT time=21
+PUSH state=(3, 1, 9) g=28 action=STAY time=28
+POP state=(3, 2, 9) g=19 time=19
+POP state=(3, 2, 9) g=19 time=19
+POP state=(3, 1, 9) g=19 time=19
+POP state=(4, 1, 9) g=19 time=19
+POP state=(4, 3, 9) g=19 time=19
+POP state=(4, 3, 9) g=19 time=19
+POP state=(3, 3, 5) g=19 time=19
+POP state=(3, 3, 5) g=19 time=19
+POP state=(3, 4, 5) g=19 time=19
+POP state=(3, 3, 5) g=19 time=19
+POP state=(0, 3, 5) g=19 time=19
+POP state=(0, 3, 12) g=19 time=19
+PUSH state=(1, 3, 12) g=20 action=DOWN time=20
+PUSH state=(0, 2, 13) g=20 action=LEFT time=20
+PUSH state=(0, 4, 12) g=20 action=RIGHT time=20
+PUSH state=(0, 3, 12) g=28 action=STAY time=28
+POP state=(1, 3, 12) g=19 time=19
+POP state=(1, 3, 12) g=19 time=19
+POP state=(3, 4, 12) g=19 time=19
+POP state=(2, 4, 12) g=19 time=19
+POP state=(0, 3, 8) g=19 time=19
+PUSH state=(1, 3, 8) g=20 action=DOWN time=20
+PUSH state=(0, 2, 9) g=20 action=LEFT time=20
+PUSH state=(0, 4, 8) g=20 action=RIGHT time=20
+PUSH state=(0, 3, 8) g=28 action=STAY time=28
+POP state=(1, 3, 8) g=19 time=19
+POP state=(1, 3, 8) g=19 time=19
+POP state=(3, 4, 1) g=19 time=19
+POP state=(4, 4, 1) g=19 time=19
+POP state=(3, 4, 4) g=19 time=19
+POP state=(3, 4, 4) g=19 time=19
+POP state=(1, 1, 0) g=19 time=19
+POP state=(1, 1, 0) g=19 time=19
+POP state=(1, 1, 0) g=19 time=19
+POP state=(4, 2, 13) g=19 time=19
+POP state=(4, 2, 13) g=19 time=19
+POP state=(0, 2, 13) g=19 time=19
+POP state=(0, 2, 9) g=19 time=19
+POP state=(4, 3, 5) g=19 time=19
+POP state=(4, 3, 5) g=19 time=19
+POP state=(2, 2, 9) g=19 time=19
+POP state=(2, 2, 9) g=19 time=19
+POP state=(2, 2, 9) g=19 time=19
+POP state=(4, 0, 9) g=19 time=19
+POP state=(2, 0, 14) g=19 time=19
+POP state=(2, 0, 10) g=19 time=19
+POP state=(4, 3, 13) g=19 time=19
+POP state=(4, 3, 13) g=19 time=19
+POP state=(3, 4, 0) g=19 time=19
+POP state=(3, 4, 0) g=19 time=19
+POP state=(1, 1, 4) g=19 time=19
+POP state=(1, 1, 4) g=19 time=19
+POP state=(1, 1, 1) g=19 time=19
+POP state=(1, 1, 1) g=19 time=19
+POP state=(3, 1, 4) g=19 time=19
+POP state=(3, 1, 4) g=19 time=19
+POP state=(3, 1, 0) g=19 time=19
+POP state=(3, 1, 0) g=19 time=19
+POP state=(1, 1, 5) g=19 time=19
+POP state=(1, 1, 5) g=19 time=19
+POP state=(2, 0, 6) g=19 time=19
+POP state=(2, 0, 2) g=19 time=19
+POP state=(2, 0, 11) g=19 time=19
+POP state=(0, 0, 1) g=19 time=19
+POP state=(0, 1, 1) g=19 time=19
+POP state=(3, 1, 12) g=19 time=19
+POP state=(3, 1, 12) g=19 time=19
+POP state=(3, 1, 8) g=19 time=19
+POP state=(3, 1, 8) g=19 time=19
+POP state=(0, 1, 4) g=19 time=19
+POP state=(4, 0, 14) g=19 time=19
+POP state=(4, 0, 10) g=19 time=19
+POP state=(3, 1, 1) g=19 time=19
+POP state=(3, 0, 1) g=19 time=19
+PUSH state=(2, 0, 3) g=20 action=UP time=20
+PUSH state=(4, 0, 1) g=21 action=DOWN time=21
+PUSH state=(3, 1, 1) g=28 action=RIGHT time=28
+PUSH state=(3, 0, 1) g=21 action=STAY time=21
+POP state=(3, 1, 1) g=19 time=19
+POP state=(3, 4, 12) g=19 time=19
+POP state=(3, 4, 12) g=19 time=19
+POP state=(3, 4, 8) g=19 time=19
+POP state=(3, 4, 8) g=19 time=19
+POP state=(3, 4, 1) g=19 time=19
+POP state=(3, 4, 1) g=19 time=19
+POP state=(3, 4, 5) g=19 time=19
+POP state=(3, 4, 5) g=19 time=19
+POP state=(4, 0, 6) g=19 time=19
+PUSH state=(3, 0, 6) g=21 action=UP time=21
+PUSH state=(4, 0, 6) g=20 action=STAY time=20
+PUSH state=(4, 1, 6) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 6) g=21 action=STAY time=21
+POP state=(3, 0, 6) g=19 time=19
+POP state=(4, 0, 2) g=19 time=19
+PUSH state=(3, 0, 2) g=21 action=UP time=21
+PUSH state=(4, 0, 2) g=20 action=STAY time=20
+PUSH state=(4, 1, 2) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 2) g=21 action=STAY time=21
+POP state=(3, 0, 2) g=19 time=19
+POP state=(4, 0, 11) g=19 time=19
+PUSH state=(3, 0, 11) g=21 action=UP time=21
+PUSH state=(4, 0, 11) g=20 action=STAY time=20
+PUSH state=(4, 1, 11) g=21 action=RIGHT time=21
+PUSH state=(4, 0, 11) g=21 action=STAY time=21
+POP state=(3, 0, 11) g=19 time=19
+POP state=(2, 0, 3) g=19 time=19
+POP state=(3, 0, 3) g=19 time=19
+PUSH state=(2, 0, 3) g=20 action=UP time=20
+PUSH state=(4, 0, 3) g=21 action=DOWN time=21
+PUSH state=(3, 1, 3) g=28 action=RIGHT time=28
+PUSH state=(3, 0, 3) g=21 action=STAY time=21
+POP state=(0, 0, 5) g=19 time=19
+POP state=(2, 0, 7) g=19 time=19
+PUSH state=(2, 0, 7) g=20 action=STAY time=20
+PUSH state=(1, 0, 7) g=21 action=UP time=21
+PUSH state=(3, 0, 7) g=21 action=DOWN time=21
+PUSH state=(2, 1, 7) g=28 action=RIGHT time=28
+PUSH state=(2, 0, 7) g=20 action=STAY time=20
+POP state=(2, 0, 14) g=19 time=19
+POP state=(2, 0, 10) g=19 time=19
+POP state=(1, 1, 12) g=19 time=19
+POP state=(1, 1, 12) g=19 time=19
+POP state=(1, 1, 8) g=19 time=19
+POP state=(1, 1, 8) g=19 time=19
+POP state=(4, 0, 4) g=19 time=19
+POP state=(4, 0, 0) g=19 time=19
+POP state=(3, 2, 5) g=20 time=20
+POP state=(3, 2, 5) g=20 time=20
+POP state=(1, 2, 12) g=20 time=20
+POP state=(1, 2, 8) g=20 time=20
+POP state=(3, 2, 9) g=20 time=20
+POP state=(3, 2, 9) g=20 time=20
+POP state=(4, 1, 9) g=20 time=20
+POP state=(4, 3, 9) g=20 time=20
+POP state=(4, 3, 9) g=20 time=20
+POP state=(3, 3, 5) g=20 time=20
+POP state=(3, 3, 5) g=20 time=20
+POP state=(3, 3, 5) g=20 time=20
+POP state=(1, 3, 12) g=20 time=20
+POP state=(1, 3, 12) g=20 time=20
+POP state=(2, 4, 12) g=20 time=20
+POP state=(1, 3, 8) g=20 time=20
+POP state=(1, 3, 8) g=20 time=20
+POP state=(4, 4, 1) g=20 time=20
+POP state=(3, 4, 4) g=20 time=20
+POP state=(3, 4, 4) g=20 time=20
+POP state=(3, 4, 4) g=20 time=20
+POP state=(2, 1, 0) g=20 time=20
+POP state=(1, 1, 0) g=20 time=20
+POP state=(1, 1, 0) g=20 time=20
+POP state=(3, 1, 12) g=20 time=20
+POP state=(3, 1, 8) g=20 time=20
+POP state=(4, 2, 13) g=20 time=20
+POP state=(4, 2, 13) g=20 time=20
+POP state=(0, 2, 13) g=20 time=20
+POP state=(0, 3, 13) g=20 time=20
+PUSH state=(1, 3, 13) g=21 action=DOWN time=21
+PUSH state=(0, 2, 13) g=21 action=LEFT time=21
+PUSH state=(0, 4, 13) g=21 action=RIGHT time=21
+PUSH state=(0, 3, 13) g=29 action=STAY time=29
+POP state=(0, 2, 9) g=20 time=20
+POP state=(0, 3, 9) g=20 time=20
+PUSH state=(1, 3, 9) g=21 action=DOWN time=21
+PUSH state=(0, 2, 9) g=21 action=LEFT time=21
+PUSH state=(0, 4, 9) g=21 action=RIGHT time=21
+PUSH state=(0, 3, 9) g=29 action=STAY time=29
+POP state=(4, 3, 5) g=20 time=20
+POP state=(4, 3, 5) g=20 time=20
+POP state=(2, 2, 9) g=20 time=20
+POP state=(2, 2, 9) g=20 time=20
+POP state=(2, 2, 9) g=20 time=20
+POP state=(4, 0, 9) g=20 time=20
+POP state=(2, 0, 14) g=20 time=20
+POP state=(2, 0, 10) g=20 time=20
+POP state=(4, 3, 13) g=20 time=20
+POP state=(4, 3, 13) g=20 time=20
+POP state=(3, 4, 0) g=20 time=20
+POP state=(3, 4, 0) g=20 time=20
+POP state=(1, 1, 4) g=20 time=20
+POP state=(1, 1, 4) g=20 time=20
+POP state=(1, 1, 1) g=20 time=20
+POP state=(1, 1, 1) g=20 time=20
+POP state=(3, 1, 4) g=20 time=20
+POP state=(3, 1, 4) g=20 time=20
+POP state=(3, 1, 0) g=20 time=20
+POP state=(3, 1, 0) g=20 time=20
+POP state=(1, 1, 5) g=20 time=20
+POP state=(1, 1, 5) g=20 time=20
+POP state=(2, 0, 6) g=20 time=20
+POP state=(2, 0, 2) g=20 time=20
+POP state=(2, 0, 11) g=20 time=20
+POP state=(0, 0, 1) g=20 time=20
+POP state=(3, 1, 12) g=20 time=20
+POP state=(3, 1, 12) g=20 time=20
+POP state=(3, 1, 8) g=20 time=20
+POP state=(3, 1, 8) g=20 time=20
+POP state=(4, 0, 14) g=20 time=20
+POP state=(4, 0, 10) g=20 time=20
+POP state=(3, 1, 1) g=20 time=20
+POP state=(3, 1, 1) g=20 time=20
+POP state=(3, 4, 12) g=20 time=20
+POP state=(3, 4, 12) g=20 time=20
+POP state=(3, 4, 8) g=20 time=20
+POP state=(3, 4, 8) g=20 time=20
+POP state=(3, 4, 1) g=20 time=20
+POP state=(3, 4, 1) g=20 time=20
+POP state=(3, 4, 5) g=20 time=20
+POP state=(3, 4, 5) g=20 time=20
+POP state=(2, 0, 3) g=20 time=20
+POP state=(0, 0, 5) g=20 time=20
+POP state=(2, 2, 5) g=20 time=20
+POP state=(2, 2, 12) g=20 time=20
+POP state=(2, 2, 8) g=20 time=20
+POP state=(1, 1, 12) g=20 time=20
+POP state=(1, 1, 12) g=20 time=20
+POP state=(1, 1, 8) g=20 time=20
+POP state=(1, 1, 8) g=20 time=20
+POP state=(3, 0, 4) g=20 time=20
+POP state=(4, 0, 4) g=20 time=20
+POP state=(4, 0, 4) g=20 time=20
+POP state=(3, 0, 0) g=20 time=20
+POP state=(4, 0, 0) g=20 time=20
+POP state=(4, 0, 0) g=20 time=20
+POP state=(3, 1, 5) g=20 time=20
+POP state=(3, 1, 5) g=20 time=20
+POP state=(3, 1, 9) g=20 time=20
+POP state=(3, 1, 9) g=20 time=20
+POP state=(1, 3, 12) g=20 time=20
+POP state=(0, 2, 13) g=20 time=20
+POP state=(0, 4, 12) g=20 time=20
+POP state=(1, 3, 8) g=20 time=20
+POP state=(0, 2, 9) g=20 time=20
+POP state=(0, 4, 8) g=20 time=20
+POP state=(2, 0, 3) g=20 time=20
+POP state=(4, 0, 6) g=20 time=20
+POP state=(4, 0, 2) g=20 time=20
+POP state=(4, 0, 11) g=20 time=20
+POP state=(2, 0, 3) g=20 time=20
+POP state=(2, 0, 7) g=20 time=20
+POP state=(2, 0, 7) g=20 time=20
+POP state=(3, 3, 5) g=21 time=21
+POP state=(3, 2, 5) g=21 time=21
+POP state=(1, 2, 12) g=21 time=21
+POP state=(1, 2, 8) g=21 time=21
+POP state=(3, 3, 9) g=21 time=21
+PUSH state=(2, 3, 9) g=22 action=UP time=22
+PUSH state=(4, 3, 9) g=22 action=DOWN time=22
+PUSH state=(3, 2, 9) g=22 action=LEFT time=22
+PUSH state=(3, 4, 9) g=30 action=RIGHT time=30
+PUSH state=(3, 3, 9) g=22 action=STAY time=22
+POP state=(3, 2, 9) g=21 time=21
+POP state=(4, 1, 9) g=21 time=21
+POP state=(3, 3, 9) g=21 time=21
+POP state=(4, 4, 9) g=21 time=21
+PUSH state=(3, 4, 9) g=30 action=UP time=30
+PUSH state=(4, 3, 9) g=22 action=LEFT time=22
+PUSH state=(4, 4, 9) g=22 action=STAY time=22
+POP state=(2, 3, 5) g=21 time=21
+POP state=(3, 2, 5) g=21 time=21
+POP state=(3, 3, 5) g=21 time=21
+POP state=(2, 3, 12) g=21 time=21
+POP state=(1, 2, 12) g=21 time=21
+POP state=(2, 3, 12) g=21 time=21
+POP state=(2, 3, 8) g=21 time=21
+POP state=(1, 2, 8) g=21 time=21
+POP state=(4, 4, 1) g=21 time=21
+POP state=(4, 4, 4) g=21 time=21
+POP state=(3, 3, 4) g=21 time=21
+POP state=(1, 0, 0) g=21 time=21
+PUSH state=(0, 0, 0) g=30 action=UP time=30
+PUSH state=(2, 0, 2) g=22 action=DOWN time=22
+PUSH state=(1, 1, 0) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 0) g=22 action=STAY time=22
+POP state=(1, 2, 0) g=21 time=21
+POP state=(3, 2, 13) g=21 time=21
+PUSH state=(2, 2, 13) g=23 action=UP time=23
+PUSH state=(4, 2, 13) g=22 action=DOWN time=22
+PUSH state=(3, 1, 13) g=30 action=LEFT time=30
+PUSH state=(3, 3, 13) g=22 action=RIGHT time=22
+PUSH state=(3, 2, 13) g=22 action=STAY time=22
+POP state=(4, 1, 13) g=21 time=21
+PUSH state=(3, 1, 13) g=30 action=UP time=30
+PUSH state=(4, 0, 13) g=23 action=LEFT time=23
+PUSH state=(4, 2, 13) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 13) g=22 action=STAY time=22
+POP state=(1, 2, 13) g=21 time=21
+PUSH state=(0, 2, 13) g=22 action=UP time=22
+PUSH state=(2, 2, 13) g=23 action=DOWN time=23
+PUSH state=(1, 1, 13) g=29 action=LEFT time=29
+PUSH state=(1, 3, 13) g=22 action=RIGHT time=22
+PUSH state=(1, 2, 13) g=22 action=STAY time=22
+POP state=(1, 2, 9) g=21 time=21
+PUSH state=(0, 2, 9) g=22 action=UP time=22
+PUSH state=(2, 2, 9) g=23 action=DOWN time=23
+PUSH state=(1, 1, 9) g=29 action=LEFT time=29
+PUSH state=(1, 3, 9) g=22 action=RIGHT time=22
+PUSH state=(1, 2, 9) g=22 action=STAY time=22
+POP state=(3, 3, 5) g=21 time=21
+POP state=(4, 4, 5) g=21 time=21
+PUSH state=(3, 4, 5) g=30 action=UP time=30
+PUSH state=(4, 3, 5) g=22 action=LEFT time=22
+PUSH state=(4, 4, 5) g=22 action=STAY time=22
+POP state=(1, 2, 9) g=21 time=21
+POP state=(3, 2, 9) g=21 time=21
+POP state=(2, 1, 9) g=21 time=21
+PUSH state=(1, 1, 9) g=29 action=UP time=29
+PUSH state=(3, 1, 9) g=30 action=DOWN time=30
+PUSH state=(2, 0, 11) g=22 action=LEFT time=22
+PUSH state=(2, 2, 9) g=23 action=RIGHT time=23
+PUSH state=(2, 1, 9) g=30 action=STAY time=30
+POP state=(2, 3, 9) g=21 time=21
+PUSH state=(1, 3, 9) g=22 action=UP time=22
+PUSH state=(3, 3, 9) g=22 action=DOWN time=22
+PUSH state=(2, 2, 9) g=23 action=LEFT time=23
+PUSH state=(2, 4, 13) g=22 action=RIGHT time=22
+PUSH state=(2, 3, 9) g=22 action=STAY time=22
+POP state=(4, 1, 9) g=21 time=21
+POP state=(1, 0, 14) g=21 time=21
+PUSH state=(0, 0, 14) g=30 action=UP time=30
+PUSH state=(2, 0, 14) g=22 action=DOWN time=22
+PUSH state=(1, 1, 14) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 14) g=22 action=STAY time=22
+POP state=(2, 1, 14) g=21 time=21
+PUSH state=(1, 1, 14) g=29 action=UP time=29
+PUSH state=(3, 1, 14) g=30 action=DOWN time=30
+PUSH state=(2, 0, 14) g=22 action=LEFT time=22
+PUSH state=(2, 2, 14) g=23 action=RIGHT time=23
+PUSH state=(2, 1, 14) g=30 action=STAY time=30
+POP state=(1, 0, 10) g=21 time=21
+PUSH state=(0, 0, 10) g=30 action=UP time=30
+PUSH state=(2, 0, 10) g=22 action=DOWN time=22
+PUSH state=(1, 1, 10) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 10) g=22 action=STAY time=22
+POP state=(2, 1, 10) g=21 time=21
+PUSH state=(1, 1, 10) g=29 action=UP time=29
+PUSH state=(3, 1, 10) g=30 action=DOWN time=30
+PUSH state=(2, 0, 10) g=22 action=LEFT time=22
+PUSH state=(2, 2, 10) g=23 action=RIGHT time=23
+PUSH state=(2, 1, 10) g=30 action=STAY time=30
+POP state=(3, 3, 13) g=21 time=21
+PUSH state=(2, 3, 13) g=22 action=UP time=22
+PUSH state=(4, 3, 13) g=22 action=DOWN time=22
+PUSH state=(3, 2, 13) g=22 action=LEFT time=22
+PUSH state=(3, 4, 13) g=30 action=RIGHT time=30
+PUSH state=(3, 3, 13) g=22 action=STAY time=22
+POP state=(4, 4, 13) g=21 time=21
+PUSH state=(3, 4, 13) g=30 action=UP time=30
+PUSH state=(4, 3, 13) g=22 action=LEFT time=22
+PUSH state=(4, 4, 13) g=22 action=STAY time=22
+POP state=(0, 3, 12) g=21 time=21
+POP state=(0, 3, 8) g=21 time=21
+POP state=(4, 4, 0) g=21 time=21
+POP state=(3, 3, 0) g=21 time=21
+POP state=(1, 0, 4) g=21 time=21
+PUSH state=(0, 0, 4) g=30 action=UP time=30
+PUSH state=(2, 0, 6) g=22 action=DOWN time=22
+PUSH state=(1, 1, 4) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 4) g=22 action=STAY time=22
+POP state=(1, 2, 4) g=21 time=21
+POP state=(1, 1, 4) g=21 time=21
+POP state=(1, 0, 1) g=21 time=21
+PUSH state=(0, 0, 1) g=30 action=UP time=30
+PUSH state=(2, 0, 3) g=22 action=DOWN time=22
+PUSH state=(1, 1, 1) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 1) g=22 action=STAY time=22
+POP state=(1, 2, 1) g=21 time=21
+POP state=(1, 1, 1) g=21 time=21
+POP state=(4, 1, 4) g=21 time=21
+PUSH state=(3, 1, 4) g=30 action=UP time=30
+PUSH state=(4, 0, 4) g=23 action=LEFT time=23
+PUSH state=(4, 2, 12) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 4) g=22 action=STAY time=22
+POP state=(3, 2, 4) g=21 time=21
+POP state=(4, 1, 0) g=21 time=21
+PUSH state=(3, 1, 0) g=30 action=UP time=30
+PUSH state=(4, 0, 0) g=23 action=LEFT time=23
+PUSH state=(4, 2, 8) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 0) g=22 action=STAY time=22
+POP state=(3, 2, 0) g=21 time=21
+POP state=(1, 0, 5) g=21 time=21
+PUSH state=(0, 0, 5) g=30 action=UP time=30
+PUSH state=(2, 0, 7) g=22 action=DOWN time=22
+PUSH state=(1, 1, 5) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 5) g=22 action=STAY time=22
+POP state=(1, 2, 5) g=21 time=21
+POP state=(1, 0, 6) g=21 time=21
+PUSH state=(0, 0, 6) g=30 action=UP time=30
+PUSH state=(2, 0, 6) g=22 action=DOWN time=22
+PUSH state=(1, 1, 6) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 6) g=22 action=STAY time=22
+POP state=(1, 0, 2) g=21 time=21
+PUSH state=(0, 0, 2) g=30 action=UP time=30
+PUSH state=(2, 0, 2) g=22 action=DOWN time=22
+PUSH state=(1, 1, 2) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 2) g=22 action=STAY time=22
+POP state=(1, 0, 11) g=21 time=21
+PUSH state=(0, 0, 11) g=30 action=UP time=30
+PUSH state=(2, 0, 11) g=22 action=DOWN time=22
+PUSH state=(1, 1, 11) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 11) g=22 action=STAY time=22
+POP state=(1, 0, 1) g=21 time=21
+POP state=(4, 1, 12) g=21 time=21
+POP state=(3, 2, 12) g=21 time=21
+POP state=(4, 1, 8) g=21 time=21
+POP state=(3, 2, 8) g=21 time=21
+POP state=(4, 1, 14) g=21 time=21
+PUSH state=(3, 1, 14) g=30 action=UP time=30
+PUSH state=(4, 0, 14) g=23 action=LEFT time=23
+PUSH state=(4, 2, 14) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 14) g=22 action=STAY time=22
+POP state=(4, 1, 10) g=21 time=21
+PUSH state=(3, 1, 10) g=30 action=UP time=30
+PUSH state=(4, 0, 10) g=23 action=LEFT time=23
+PUSH state=(4, 2, 10) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 10) g=22 action=STAY time=22
+POP state=(4, 1, 1) g=21 time=21
+PUSH state=(3, 1, 1) g=30 action=UP time=30
+PUSH state=(4, 0, 1) g=23 action=LEFT time=23
+PUSH state=(4, 2, 9) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 1) g=22 action=STAY time=22
+POP state=(3, 2, 1) g=21 time=21
+POP state=(4, 4, 12) g=21 time=21
+POP state=(3, 3, 12) g=21 time=21
+POP state=(4, 4, 8) g=21 time=21
+POP state=(3, 3, 8) g=21 time=21
+POP state=(4, 4, 1) g=21 time=21
+POP state=(3, 3, 1) g=21 time=21
+POP state=(4, 4, 5) g=21 time=21
+POP state=(3, 3, 5) g=21 time=21
+POP state=(1, 0, 3) g=21 time=21
+PUSH state=(0, 0, 3) g=30 action=UP time=30
+PUSH state=(2, 0, 3) g=22 action=DOWN time=22
+PUSH state=(1, 1, 3) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 3) g=22 action=STAY time=22
+POP state=(1, 0, 5) g=21 time=21
+POP state=(0, 1, 5) g=21 time=21
+POP state=(0, 1, 12) g=21 time=21
+PUSH state=(1, 1, 12) g=29 action=DOWN time=29
+PUSH state=(0, 0, 12) g=30 action=LEFT time=30
+PUSH state=(0, 2, 13) g=22 action=RIGHT time=22
+PUSH state=(0, 1, 12) g=24 action=STAY time=24
+POP state=(1, 0, 12) g=21 time=21
+PUSH state=(0, 0, 12) g=30 action=UP time=30
+PUSH state=(2, 0, 14) g=22 action=DOWN time=22
+PUSH state=(1, 1, 12) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 12) g=22 action=STAY time=22
+POP state=(1, 2, 12) g=21 time=21
+POP state=(0, 1, 8) g=21 time=21
+PUSH state=(1, 1, 8) g=29 action=DOWN time=29
+PUSH state=(0, 0, 8) g=30 action=LEFT time=30
+PUSH state=(0, 2, 9) g=22 action=RIGHT time=22
+PUSH state=(0, 1, 8) g=24 action=STAY time=24
+POP state=(1, 0, 8) g=21 time=21
+PUSH state=(0, 0, 8) g=30 action=UP time=30
+PUSH state=(2, 0, 10) g=22 action=DOWN time=22
+PUSH state=(1, 1, 8) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 8) g=22 action=STAY time=22
+POP state=(1, 2, 8) g=21 time=21
+POP state=(4, 1, 4) g=21 time=21
+POP state=(4, 1, 0) g=21 time=21
+POP state=(4, 1, 5) g=21 time=21
+PUSH state=(3, 1, 5) g=30 action=UP time=30
+PUSH state=(4, 0, 5) g=23 action=LEFT time=23
+PUSH state=(4, 2, 13) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 5) g=22 action=STAY time=22
+POP state=(3, 0, 5) g=21 time=21
+PUSH state=(2, 0, 7) g=22 action=UP time=22
+PUSH state=(4, 0, 5) g=23 action=DOWN time=23
+PUSH state=(3, 1, 5) g=30 action=RIGHT time=30
+PUSH state=(3, 0, 5) g=23 action=STAY time=23
+POP state=(3, 2, 5) g=21 time=21
+POP state=(4, 1, 9) g=21 time=21
+POP state=(3, 0, 9) g=21 time=21
+POP state=(3, 2, 9) g=21 time=21
+POP state=(4, 0, 1) g=21 time=21
+PUSH state=(3, 0, 1) g=23 action=UP time=23
+PUSH state=(4, 1, 1) g=22 action=RIGHT time=22
+PUSH state=(4, 0, 1) g=23 action=STAY time=23
+POP state=(3, 0, 1) g=21 time=21
+POP state=(3, 0, 6) g=21 time=21
+POP state=(4, 1, 6) g=21 time=21
+PUSH state=(3, 1, 6) g=30 action=UP time=30
+PUSH state=(4, 0, 6) g=23 action=LEFT time=23
+PUSH state=(4, 2, 14) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 6) g=22 action=STAY time=22
+POP state=(4, 0, 6) g=21 time=21
+POP state=(3, 0, 2) g=21 time=21
+POP state=(4, 1, 2) g=21 time=21
+PUSH state=(3, 1, 2) g=30 action=UP time=30
+PUSH state=(4, 0, 2) g=23 action=LEFT time=23
+PUSH state=(4, 2, 10) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 2) g=22 action=STAY time=22
+POP state=(4, 0, 2) g=21 time=21
+POP state=(3, 0, 11) g=21 time=21
+POP state=(4, 1, 11) g=21 time=21
+PUSH state=(3, 1, 11) g=30 action=UP time=30
+PUSH state=(4, 0, 11) g=23 action=LEFT time=23
+PUSH state=(4, 2, 11) g=22 action=RIGHT time=22
+PUSH state=(4, 1, 11) g=22 action=STAY time=22
+POP state=(4, 0, 11) g=21 time=21
+POP state=(4, 0, 3) g=21 time=21
+PUSH state=(3, 0, 3) g=23 action=UP time=23
+PUSH state=(4, 1, 3) g=22 action=RIGHT time=22
+PUSH state=(4, 0, 3) g=23 action=STAY time=23
+POP state=(3, 0, 3) g=21 time=21
+POP state=(1, 0, 7) g=21 time=21
+PUSH state=(0, 0, 7) g=30 action=UP time=30
+PUSH state=(2, 0, 7) g=22 action=DOWN time=22
+PUSH state=(1, 1, 7) g=29 action=RIGHT time=29
+PUSH state=(1, 0, 7) g=22 action=STAY time=22
+POP state=(3, 0, 7) g=21 time=21
+PUSH state=(2, 0, 7) g=22 action=UP time=22
+PUSH state=(4, 0, 7) g=23 action=DOWN time=23
+PUSH state=(3, 1, 7) g=30 action=RIGHT time=30
+PUSH state=(3, 0, 7) g=23 action=STAY time=23
+POP state=(1, 3, 13) g=21 time=21
+PUSH state=(0, 3, 13) g=30 action=UP time=30
+PUSH state=(2, 3, 13) g=22 action=DOWN time=22
+PUSH state=(1, 2, 13) g=22 action=LEFT time=22
+PUSH state=(1, 4, 13) g=22 action=RIGHT time=22
+PUSH state=(1, 3, 13) g=22 action=STAY time=22
+POP state=(0, 2, 13) g=21 time=21
+POP state=(0, 4, 13) g=21 time=21
+PUSH state=(1, 4, 13) g=22 action=DOWN time=22
+PUSH state=(0, 3, 13) g=30 action=LEFT time=30
+PUSH state=(0, 4, 13) g=22 action=STAY time=22
+POP state=(1, 3, 9) g=21 time=21
+PUSH state=(0, 3, 9) g=30 action=UP time=30
+PUSH state=(2, 3, 9) g=22 action=DOWN time=22
+PUSH state=(1, 2, 9) g=22 action=LEFT time=22
+PUSH state=(1, 4, 9) g=22 action=RIGHT time=22
+PUSH state=(1, 3, 9) g=22 action=STAY time=22
+POP state=(0, 2, 9) g=21 time=21
+POP state=(0, 4, 9) g=21 time=21
+PUSH state=(1, 4, 9) g=22 action=DOWN time=22
+PUSH state=(0, 3, 9) g=30 action=LEFT time=30
+PUSH state=(0, 4, 9) g=22 action=STAY time=22
+POP state=(0, 3, 4) g=22 time=22
+POP state=(3, 4, 0) g=22 time=22
+POP state=(0, 3, 1) g=22 time=22
+POP state=(2, 1, 4) g=22 time=22
+POP state=(2, 1, 1) g=22 time=22
+POP state=(1, 1, 4) g=22 time=22
+POP state=(1, 1, 0) g=22 time=22
+POP state=(1, 1, 0) g=22 time=22
+POP state=(1, 1, 13) g=22 time=22
+PUSH state=(0, 1, 13) g=25 action=UP time=25
+PUSH state=(2, 1, 13) g=31 action=DOWN time=31
+PUSH state=(1, 0, 13) g=23 action=LEFT time=23
+PUSH state=(1, 2, 13) g=23 action=RIGHT time=23
+PUSH state=(1, 1, 13) g=30 action=STAY time=30
+POP state=(1, 1, 9) g=22 time=22
+PUSH state=(0, 1, 9) g=25 action=UP time=25
+PUSH state=(2, 1, 9) g=31 action=DOWN time=31
+PUSH state=(1, 0, 9) g=23 action=LEFT time=23
+PUSH state=(1, 2, 9) g=23 action=RIGHT time=23
+PUSH state=(1, 1, 9) g=30 action=STAY time=30
+POP state=(2, 3, 9) g=22 time=22
+POP state=(4, 3, 9) g=22 time=22
+POP state=(3, 2, 9) g=22 time=22
+POP state=(3, 3, 9) g=22 time=22
+POP state=(4, 3, 9) g=22 time=22
+POP state=(4, 4, 9) g=22 time=22
+POP state=(2, 0, 2) g=22 time=22
+POP state=(1, 0, 0) g=22 time=22
+POP state=(4, 2, 13) g=22 time=22
+POP state=(3, 3, 13) g=22 time=22
+POP state=(3, 2, 13) g=22 time=22
+POP state=(4, 2, 13) g=22 time=22
+POP state=(4, 1, 13) g=22 time=22
+POP state=(0, 2, 13) g=22 time=22
+POP state=(1, 3, 13) g=22 time=22
+POP state=(1, 2, 13) g=22 time=22
+POP state=(0, 2, 9) g=22 time=22
+POP state=(1, 3, 9) g=22 time=22
+POP state=(1, 2, 9) g=22 time=22
+POP state=(4, 3, 5) g=22 time=22
+POP state=(4, 4, 5) g=22 time=22
+POP state=(2, 0, 11) g=22 time=22
+POP state=(1, 3, 9) g=22 time=22
+POP state=(3, 3, 9) g=22 time=22
+POP state=(2, 4, 13) g=22 time=22
+PUSH state=(1, 4, 13) g=23 action=UP time=23
+PUSH state=(3, 4, 13) g=31 action=DOWN time=31
+PUSH state=(2, 3, 13) g=23 action=LEFT time=23
+PUSH state=(2, 4, 13) g=23 action=STAY time=23
+POP state=(2, 3, 9) g=22 time=22
+POP state=(2, 0, 14) g=22 time=22
+POP state=(1, 0, 14) g=22 time=22
+POP state=(2, 0, 14) g=22 time=22
+POP state=(2, 0, 10) g=22 time=22
+POP state=(1, 0, 10) g=22 time=22
+POP state=(2, 0, 10) g=22 time=22
+POP state=(2, 3, 13) g=22 time=22
+PUSH state=(1, 3, 13) g=23 action=UP time=23
+PUSH state=(3, 3, 13) g=23 action=DOWN time=23
+PUSH state=(2, 2, 13) g=24 action=LEFT time=24
+PUSH state=(2, 4, 13) g=23 action=RIGHT time=23
+PUSH state=(2, 3, 13) g=23 action=STAY time=23
+POP state=(4, 3, 13) g=22 time=22
+POP state=(3, 2, 13) g=22 time=22
+POP state=(3, 3, 13) g=22 time=22
+POP state=(4, 3, 13) g=22 time=22
+POP state=(4, 4, 13) g=22 time=22
+POP state=(2, 0, 6) g=22 time=22
+POP state=(1, 0, 4) g=22 time=22
+POP state=(2, 0, 3) g=22 time=22
+POP state=(1, 0, 1) g=22 time=22
+POP state=(4, 2, 12) g=22 time=22
+POP state=(4, 1, 4) g=22 time=22
+POP state=(4, 2, 8) g=22 time=22
+POP state=(4, 1, 0) g=22 time=22
+POP state=(2, 0, 7) g=22 time=22
+POP state=(1, 0, 5) g=22 time=22
+POP state=(2, 0, 6) g=22 time=22
+POP state=(1, 0, 6) g=22 time=22
+POP state=(2, 0, 2) g=22 time=22
+POP state=(1, 0, 2) g=22 time=22
+POP state=(2, 0, 11) g=22 time=22
+POP state=(1, 0, 11) g=22 time=22
+POP state=(4, 2, 14) g=22 time=22
+PUSH state=(3, 2, 14) g=23 action=UP time=23
+PUSH state=(4, 1, 14) g=23 action=LEFT time=23
+PUSH state=(4, 3, 14) g=23 action=RIGHT time=23
+PUSH state=(4, 2, 14) g=23 action=STAY time=23
+POP state=(4, 1, 14) g=22 time=22
+POP state=(4, 2, 10) g=22 time=22
+PUSH state=(3, 2, 10) g=23 action=UP time=23
+PUSH state=(4, 1, 10) g=23 action=LEFT time=23
+PUSH state=(4, 3, 10) g=23 action=RIGHT time=23
+PUSH state=(4, 2, 10) g=23 action=STAY time=23
+POP state=(4, 1, 10) g=22 time=22
+POP state=(4, 2, 9) g=22 time=22
+POP state=(4, 1, 1) g=22 time=22
+POP state=(2, 0, 3) g=22 time=22
+POP state=(1, 0, 3) g=22 time=22
+POP state=(0, 2, 13) g=22 time=22
+POP state=(2, 0, 14) g=22 time=22
+POP state=(1, 0, 12) g=22 time=22
+POP state=(0, 2, 9) g=22 time=22
+POP state=(2, 0, 10) g=22 time=22
+POP state=(1, 0, 8) g=22 time=22
+POP state=(4, 2, 13) g=22 time=22
+POP state=(4, 1, 5) g=22 time=22
+POP state=(2, 0, 7) g=22 time=22
+POP state=(4, 1, 1) g=22 time=22
+POP state=(4, 2, 14) g=22 time=22
+POP state=(4, 1, 6) g=22 time=22
+POP state=(4, 2, 10) g=22 time=22
+POP state=(4, 1, 2) g=22 time=22
+POP state=(4, 2, 11) g=22 time=22
+PUSH state=(3, 2, 11) g=23 action=UP time=23
+PUSH state=(4, 1, 11) g=23 action=LEFT time=23
+PUSH state=(4, 3, 11) g=23 action=RIGHT time=23
+PUSH state=(4, 2, 11) g=23 action=STAY time=23
+POP state=(4, 1, 11) g=22 time=22
+POP state=(4, 1, 3) g=22 time=22
+PUSH state=(3, 1, 3) g=31 action=UP time=31
+PUSH state=(4, 0, 3) g=24 action=LEFT time=24
+PUSH state=(4, 2, 11) g=23 action=RIGHT time=23
+PUSH state=(4, 1, 3) g=23 action=STAY time=23
+POP state=(2, 0, 7) g=22 time=22
+POP state=(1, 0, 7) g=22 time=22
+POP state=(2, 0, 7) g=22 time=22
+POP state=(2, 3, 13) g=22 time=22
+POP state=(1, 2, 13) g=22 time=22
+POP state=(1, 4, 13) g=22 time=22
+PUSH state=(0, 4, 13) g=23 action=UP time=23
+PUSH state=(2, 4, 13) g=23 action=DOWN time=23
+PUSH state=(1, 3, 13) g=23 action=LEFT time=23
+PUSH state=(1, 4, 13) g=23 action=STAY time=23
+POP state=(1, 3, 13) g=22 time=22
+POP state=(1, 4, 13) g=22 time=22
+POP state=(0, 4, 13) g=22 time=22
+POP state=(2, 3, 9) g=22 time=22
+POP state=(1, 2, 9) g=22 time=22
+POP state=(1, 4, 9) g=22 time=22
+PUSH state=(0, 4, 9) g=23 action=UP time=23
+PUSH state=(2, 4, 13) g=23 action=DOWN time=23
+PUSH state=(1, 3, 9) g=23 action=LEFT time=23
+PUSH state=(1, 4, 9) g=23 action=STAY time=23
+POP state=(1, 3, 9) g=22 time=22
+POP state=(1, 4, 9) g=22 time=22
+POP state=(0, 4, 9) g=22 time=22
+POP state=(3, 1, 4) g=23 time=23
+POP state=(2, 1, 4) g=23 time=23
+POP state=(3, 1, 0) g=23 time=23
+POP state=(2, 1, 0) g=23 time=23
+POP state=(2, 1, 4) g=23 time=23
+POP state=(3, 1, 4) g=23 time=23
+POP state=(2, 1, 0) g=23 time=23
+POP state=(3, 1, 0) g=23 time=23
+POP state=(0, 0, 0) g=23 time=23
+PUSH state=(1, 0, 0) g=24 action=DOWN time=24
+PUSH state=(0, 1, 0) g=26 action=RIGHT time=26
+PUSH state=(0, 0, 0) g=32 action=STAY time=32
+POP state=(0, 0, 13) g=23 time=23
+PUSH state=(1, 0, 13) g=24 action=DOWN time=24
+PUSH state=(0, 1, 13) g=26 action=RIGHT time=26
+PUSH state=(0, 0, 13) g=32 action=STAY time=32
+POP state=(0, 0, 9) g=23 time=23
+PUSH state=(1, 0, 9) g=24 action=DOWN time=24
+PUSH state=(0, 1, 9) g=26 action=RIGHT time=26
+PUSH state=(0, 0, 9) g=32 action=STAY time=32
+POP state=(3, 1, 9) g=23 time=23
+POP state=(3, 1, 14) g=23 time=23
+PUSH state=(2, 1, 14) g=32 action=UP time=32
+PUSH state=(4, 1, 14) g=24 action=DOWN time=24
+PUSH state=(3, 0, 14) g=25 action=LEFT time=25
+PUSH state=(3, 2, 14) g=24 action=RIGHT time=24
+PUSH state=(3, 1, 14) g=32 action=STAY time=32
+POP state=(3, 1, 10) g=23 time=23
+PUSH state=(2, 1, 10) g=32 action=UP time=32
+PUSH state=(4, 1, 10) g=24 action=DOWN time=24
+PUSH state=(3, 0, 10) g=25 action=LEFT time=25
+PUSH state=(3, 2, 10) g=24 action=RIGHT time=24
+PUSH state=(3, 1, 10) g=32 action=STAY time=32
+POP state=(1, 1, 5) g=23 time=23
+POP state=(2, 2, 13) g=23 time=23
+PUSH state=(1, 2, 13) g=24 action=UP time=24
+PUSH state=(3, 2, 13) g=24 action=DOWN time=24
+PUSH state=(2, 1, 13) g=32 action=LEFT time=32
+PUSH state=(2, 3, 13) g=24 action=RIGHT time=24
+PUSH state=(2, 2, 13) g=25 action=STAY time=25
+POP state=(4, 0, 13) g=23 time=23
+PUSH state=(3, 0, 13) g=25 action=UP time=25
+PUSH state=(4, 1, 13) g=24 action=RIGHT time=24
+PUSH state=(4, 0, 13) g=25 action=STAY time=25
+POP state=(2, 2, 13) g=23 time=23
+POP state=(2, 2, 9) g=23 time=23
+POP state=(2, 2, 9) g=23 time=23
+POP state=(2, 2, 9) g=23 time=23
+POP state=(2, 2, 14) g=23 time=23
+PUSH state=(1, 2, 14) g=24 action=UP time=24
+PUSH state=(3, 2, 14) g=24 action=DOWN time=24
+PUSH state=(2, 1, 14) g=32 action=LEFT time=32
+PUSH state=(2, 3, 14) g=24 action=RIGHT time=24
+PUSH state=(2, 2, 14) g=25 action=STAY time=25
+POP state=(2, 2, 10) g=23 time=23
+PUSH state=(1, 2, 10) g=24 action=UP time=24
+PUSH state=(3, 2, 10) g=24 action=DOWN time=24
+PUSH state=(2, 1, 10) g=32 action=LEFT time=32
+PUSH state=(2, 3, 10) g=24 action=RIGHT time=24
+PUSH state=(2, 2, 10) g=25 action=STAY time=25
+POP state=(4, 0, 4) g=23 time=23
+POP state=(4, 0, 0) g=23 time=23
+POP state=(4, 0, 14) g=23 time=23
+POP state=(4, 0, 10) g=23 time=23
+POP state=(4, 0, 1) g=23 time=23
+POP state=(4, 0, 5) g=23 time=23
+PUSH state=(3, 0, 5) g=25 action=UP time=25
+PUSH state=(4, 1, 5) g=24 action=RIGHT time=24
+PUSH state=(4, 0, 5) g=25 action=STAY time=25
+POP state=(4, 0, 5) g=23 time=23
+POP state=(3, 0, 5) g=23 time=23
+POP state=(3, 0, 1) g=23 time=23
+POP state=(4, 0, 1) g=23 time=23
+POP state=(4, 0, 6) g=23 time=23
+POP state=(4, 0, 2) g=23 time=23
+POP state=(4, 0, 11) g=23 time=23
+POP state=(3, 0, 3) g=23 time=23
+POP state=(4, 0, 3) g=23 time=23
+POP state=(4, 0, 7) g=23 time=23
+PUSH state=(3, 0, 7) g=25 action=UP time=25
+PUSH state=(4, 1, 7) g=24 action=RIGHT time=24
+PUSH state=(4, 0, 7) g=25 action=STAY time=25
+POP state=(3, 0, 7) g=23 time=23
+POP state=(1, 0, 13) g=23 time=23
+PUSH state=(0, 0, 13) g=32 action=UP time=32
+PUSH state=(2, 0, 15) g=24 action=DOWN time=24
+PUSH state=(1, 1, 13) g=31 action=RIGHT time=31
+PUSH state=(1, 0, 13) g=24 action=STAY time=24
+POP state=(1, 2, 13) g=23 time=23
+POP state=(1, 0, 9) g=23 time=23
+PUSH state=(0, 0, 9) g=32 action=UP time=32
+PUSH state=(2, 0, 11) g=24 action=DOWN time=24
+PUSH state=(1, 1, 9) g=31 action=RIGHT time=31
+PUSH state=(1, 0, 9) g=24 action=STAY time=24
+POP state=(1, 2, 9) g=23 time=23
+POP state=(1, 4, 13) g=23 time=23
+POP state=(2, 3, 13) g=23 time=23
+POP state=(2, 4, 13) g=23 time=23
+POP state=(1, 3, 13) g=23 time=23
+POP state=(3, 3, 13) g=23 time=23
+POP state=(2, 4, 13) g=23 time=23
+POP state=(2, 3, 13) g=23 time=23
+POP state=(3, 2, 14) g=23 time=23
+PUSH state=(2, 2, 14) g=25 action=UP time=25
+PUSH state=(4, 2, 14) g=24 action=DOWN time=24
+PUSH state=(3, 1, 14) g=32 action=LEFT time=32
+PUSH state=(3, 3, 14) g=24 action=RIGHT time=24
+PUSH state=(3, 2, 14) g=24 action=STAY time=24
+POP state=(4, 1, 14) g=23 time=23
+POP state=(4, 3, 14) g=23 time=23
+PUSH state=(3, 3, 14) g=24 action=UP time=24
+PUSH state=(4, 2, 14) g=24 action=LEFT time=24
+PUSH state=(4, 4, 14) g=24 action=RIGHT time=24
+PUSH state=(4, 3, 14) g=24 action=STAY time=24
+POP state=(4, 2, 14) g=23 time=23
+POP state=(3, 2, 10) g=23 time=23
+PUSH state=(2, 2, 10) g=25 action=UP time=25
+PUSH state=(4, 2, 10) g=24 action=DOWN time=24
+PUSH state=(3, 1, 10) g=32 action=LEFT time=32
+PUSH state=(3, 3, 10) g=24 action=RIGHT time=24
+PUSH state=(3, 2, 10) g=24 action=STAY time=24
+POP state=(4, 1, 10) g=23 time=23
+POP state=(4, 3, 10) g=23 time=23
+PUSH state=(3, 3, 10) g=24 action=UP time=24
+PUSH state=(4, 2, 10) g=24 action=LEFT time=24
+PUSH state=(4, 4, 10) g=24 action=RIGHT time=24
+PUSH state=(4, 3, 10) g=24 action=STAY time=24
+POP state=(4, 2, 10) g=23 time=23
+POP state=(3, 2, 11) g=23 time=23
+PUSH state=(2, 2, 11) g=25 action=UP time=25
+PUSH state=(4, 2, 11) g=24 action=DOWN time=24
+PUSH state=(3, 1, 11) g=32 action=LEFT time=32
+PUSH state=(3, 3, 11) g=24 action=RIGHT time=24
+PUSH state=(3, 2, 11) g=24 action=STAY time=24
+POP state=(4, 1, 11) g=23 time=23
+POP state=(4, 3, 11) g=23 time=23
+PUSH state=(3, 3, 11) g=24 action=UP time=24
+PUSH state=(4, 2, 11) g=24 action=LEFT time=24
+PUSH state=(4, 4, 11) g=24 action=RIGHT time=24
+PUSH state=(4, 3, 11) g=24 action=STAY time=24
+POP state=(4, 2, 11) g=23 time=23
+POP state=(4, 2, 11) g=23 time=23
+POP state=(4, 1, 3) g=23 time=23
+POP state=(0, 4, 13) g=23 time=23
+POP state=(2, 4, 13) g=23 time=23
+POP state=(1, 3, 13) g=23 time=23
+POP state=(1, 4, 13) g=23 time=23
+POP state=(0, 4, 9) g=23 time=23
+POP state=(2, 4, 13) g=23 time=23
+POP state=(1, 3, 9) g=23 time=23
+POP state=(1, 4, 9) g=23 time=23
+POP state=(0, 3, 5) g=24 time=24
+POP state=(2, 1, 5) g=24 time=24
+POP state=(2, 1, 6) g=24 time=24
+PUSH state=(1, 1, 6) g=32 action=UP time=32
+PUSH state=(3, 1, 6) g=33 action=DOWN time=33
+PUSH state=(2, 0, 6) g=25 action=LEFT time=25
+PUSH state=(2, 2, 6) g=26 action=RIGHT time=26
+PUSH state=(2, 1, 6) g=33 action=STAY time=33
+POP state=(2, 1, 2) g=24 time=24
+PUSH state=(1, 1, 2) g=32 action=UP time=32
+PUSH state=(3, 1, 2) g=33 action=DOWN time=33
+PUSH state=(2, 0, 2) g=25 action=LEFT time=25
+PUSH state=(2, 2, 2) g=26 action=RIGHT time=26
+PUSH state=(2, 1, 2) g=33 action=STAY time=33
+POP state=(2, 1, 11) g=24 time=24
+PUSH state=(1, 1, 11) g=32 action=UP time=32
+PUSH state=(3, 1, 11) g=33 action=DOWN time=33
+PUSH state=(2, 0, 11) g=25 action=LEFT time=25
+PUSH state=(2, 2, 11) g=26 action=RIGHT time=26
+PUSH state=(2, 1, 11) g=33 action=STAY time=33
+POP state=(1, 1, 1) g=24 time=24
+POP state=(1, 1, 4) g=24 time=24
+POP state=(0, 1, 12) g=24 time=24
+POP state=(0, 1, 8) g=24 time=24
+POP state=(2, 2, 13) g=24 time=24
+POP state=(4, 0, 3) g=24 time=24
+POP state=(1, 0, 0) g=24 time=24
+POP state=(1, 0, 13) g=24 time=24
+POP state=(1, 0, 9) g=24 time=24
+POP state=(4, 1, 14) g=24 time=24
+POP state=(3, 2, 14) g=24 time=24
+POP state=(4, 1, 10) g=24 time=24
+POP state=(3, 2, 10) g=24 time=24
+POP state=(1, 2, 13) g=24 time=24
+POP state=(3, 2, 13) g=24 time=24
+POP state=(2, 3, 13) g=24 time=24
+POP state=(4, 1, 13) g=24 time=24
+POP state=(1, 2, 14) g=24 time=24
+PUSH state=(0, 2, 15) g=25 action=UP time=25
+PUSH state=(2, 2, 14) g=26 action=DOWN time=26
+PUSH state=(1, 1, 14) g=32 action=LEFT time=32
+PUSH state=(1, 3, 14) g=25 action=RIGHT time=25
+PUSH state=(1, 2, 14) g=25 action=STAY time=25
+POP state=(3, 2, 14) g=24 time=24
+POP state=(2, 3, 14) g=24 time=24
+PUSH state=(1, 3, 14) g=25 action=UP time=25
+PUSH state=(3, 3, 14) g=25 action=DOWN time=25
+PUSH state=(2, 2, 14) g=26 action=LEFT time=26
+PUSH state=(2, 4, 14) g=25 action=RIGHT time=25
+PUSH state=(2, 3, 14) g=25 action=STAY time=25
+POP state=(1, 2, 10) g=24 time=24
+PUSH state=(0, 2, 11) g=25 action=UP time=25
+PUSH state=(2, 2, 10) g=26 action=DOWN time=26
+PUSH state=(1, 1, 10) g=32 action=LEFT time=32
+PUSH state=(1, 3, 10) g=25 action=RIGHT time=25
+PUSH state=(1, 2, 10) g=25 action=STAY time=25
+POP state=(3, 2, 10) g=24 time=24
+POP state=(2, 3, 10) g=24 time=24
+PUSH state=(1, 3, 10) g=25 action=UP time=25
+PUSH state=(3, 3, 10) g=25 action=DOWN time=25
+PUSH state=(2, 2, 10) g=26 action=LEFT time=26
+PUSH state=(2, 4, 14) g=25 action=RIGHT time=25
+PUSH state=(2, 3, 10) g=25 action=STAY time=25
+POP state=(4, 1, 5) g=24 time=24
+POP state=(4, 1, 7) g=24 time=24
+PUSH state=(3, 1, 7) g=33 action=UP time=33
+PUSH state=(4, 0, 7) g=26 action=LEFT time=26
+PUSH state=(4, 2, 15) g=25 action=RIGHT time=25
+PUSH state=(4, 1, 7) g=25 action=STAY time=25
+POP state=(2, 0, 15) g=24 time=24
+FOUND cost=24 nodes_expanded=229
